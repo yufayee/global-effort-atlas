@@ -1,0 +1,178 @@
+[
+  {
+    "id": "zhao",
+    "sourcePage": "https://www.dep.ecnu.edu.cn/6b/27/c16533a748327/page.htm",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "error": "fetch failed",
+    "note": "来源页未能读取，无法核验人物照片和授权。",
+    "candidateCount": 0
+  },
+  {
+    "id": "oyserman",
+    "sourcePage": "https://dornsife.usc.edu/daphna-oyserman/",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": "Home - Daphna Oyserman",
+    "rightsSnippets": [
+      "Copyright © 2026 University of Southern California"
+    ],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 2
+  },
+  {
+    "id": "inzlicht",
+    "sourcePage": "https://michaelinzlicht.com/research",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": "Research &mdash; Michael Inzlicht",
+    "rightsSnippets": [
+      "copyright\""
+    ],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 1
+  },
+  {
+    "id": "muenks",
+    "sourcePage": "https://sites.edb.utexas.edu/lamb/",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": " Learning and Motivational Beliefs Lab ",
+    "rightsSnippets": [
+      "copyright\""
+    ],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 0
+  },
+  {
+    "id": "miele",
+    "sourcePage": "https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/david-miele.html",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": "David Miele - Lynch School of Education and Human Development - Boston College",
+    "rightsSnippets": [
+      "copyright text-right\"",
+      "Copyright &copy; 2026 Trustees of Boston College\n                    "
+    ],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 1
+  },
+  {
+    "id": "job",
+    "sourcePage": "https://mot-psy.univie.ac.at/en/ueber-uns/veronika-job",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": "Veronika Job",
+    "rightsSnippets": [
+      "copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.\n\tInformation and contribution at https://typo3.org/\n--"
+    ],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 1
+  },
+  {
+    "id": "yan",
+    "sourcePage": "https://sites.edb.utexas.edu/slam/",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": " Science of Learning and Metacognition Lab ",
+    "rightsSnippets": [
+      "copyright\""
+    ],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 0
+  },
+  {
+    "id": "debruin",
+    "sourcePage": "https://www.maastrichtuniversity.nl/nl/nieuws/anique-de-bruin-wordt-de-nieuwe-wetenschappelijk-directeur-van-she",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": "Anique de Bruin wordt de nieuwe wetenschappelijk directeur van SHE - - Maastricht University",
+    "rightsSnippets": [],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 1
+  },
+  {
+    "id": "westbrook",
+    "sourcePage": "https://sites.rutgers.edu/cahbir/people/andrew-westbrook/",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": "Andrew Westbrook, Ph.D. - Center for Advanced Human Brain Imaging Research",
+    "rightsSnippets": [
+      "Copyright ©2026",
+      "copyright-information\""
+    ],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 1
+  },
+  {
+    "id": "shenhav",
+    "sourcePage": "https://psychology.berkeley.edu/people/amitai-shenhav",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": "Amitai Shenhav | Psychology",
+    "rightsSnippets": [
+      "copyright\"",
+      "Copyright © 2026 UC Regents; all rights reserved\n"
+    ],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 0
+  },
+  {
+    "id": "gendolla",
+    "sourcePage": "https://www.unige.ch/fapse/motivation/gendolla.html",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 503,
+    "title": "Error 503",
+    "rightsSnippets": [],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 0
+  },
+  {
+    "id": "biwer",
+    "sourcePage": "https://www.maastrichtuniversity.nl/f-biwer/research",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": "Felicitas Biwer (F.) - Felicitas Biwer (F.) - Maastricht University",
+    "rightsSnippets": [],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 1
+  },
+  {
+    "id": "wolff",
+    "sourcePage": "https://www.bw.uni-hamburg.de/en/arbeitsbereiche/sport-individuum-gesellschaft/personen/wolf-wanja.html",
+    "licenseStatus": "not-established",
+    "decision": "placeholder",
+    "checkedAt": "2026-10-22T11:16:59.234Z",
+    "httpStatus": 200,
+    "title": "Prof. Dr. Wanja Wolff : Institute of Human Movement Science : University of Hamburg",
+    "rightsSnippets": [
+      "copyright\"",
+      "All rights reserved"
+    ],
+    "note": "候选图片未完成身份和逐图授权核验，不下载或展示；页面版权标识不是复用许可。",
+    "candidateCount": 0
+  }
+]
