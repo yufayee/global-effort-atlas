@@ -3869,14 +3869,19 @@
   "topics": [
     {
       "id": "moral-value",
-      "nameZh": "努力的道德价值",
+      "nameZh": "道德与社会价值",
       "nameEn": "Effort & Moral Character",
       "question": "人们为什么把努力当作品格、应得性或合作价值的信号？",
       "boundary": "他人对道德品格的判断，不等于行动者真实品格，也不等于努力带来的愉悦、能力或产出。",
       "sourceURLs": [
         "https://pubmed.ncbi.nlm.nih.gov/35901413/",
         "https://pubmed.ncbi.nlm.nih.gov/36575959/"
-      ]
+      ],
+      "parentThemeId": "value",
+      "relatedThemeIds": [
+        "beliefs"
+      ],
+      "classificationNote": "价值与成本下的子类；与信念与意义交叉关联。分类为图谱策展结构。"
     }
   ]
 }
