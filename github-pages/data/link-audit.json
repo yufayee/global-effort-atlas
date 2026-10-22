@@ -1,0 +1,2045 @@
+[
+  {
+    "url": "https://api.crossref.org/works/10.1007/s10648-023-09766-w",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8108-933c-c06c8e54f075",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8108-933c-c06c8e54f075",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1007/s10648-023-09766-w",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:01.875Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007/s11218-022-09689-4",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-813b-9205-c9f84f717f53",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-813b-9205-c9f84f717f53",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1007/s11218-022-09689-4",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:10.295Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007/s11409-025-09446-w",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8121-b00b-ff13296f1dc9",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8121-b00b-ff13296f1dc9",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1007/s11409-025-09446-w",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:06.321Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.cedpsych.2008.01.005",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81a0-a655-cb2d8a7d235d",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81a0-a655-cb2d8a7d235d",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1016/j.cedpsych.2008.01.005",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:17.795Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.cogpsych.2019.101237",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8147-816c-cd739b5d6ec1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8147-816c-cd739b5d6ec1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1016/j.cogpsych.2019.101237",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:12.071Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.jecp.2025.106431",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8125-96ca-d1bb2b19fa13",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8125-96ca-d1bb2b19fa13",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1016/j.jecp.2025.106431",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:07.256Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.learninstruc.2016.12.002",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8113-82c6-d9238dabb2c1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8113-82c6-d9238dabb2c1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1016/j.learninstruc.2016.12.002",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:03.232Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.learninstruc.2026.102471",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8194-80e1-ea4f75ff707c",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8194-80e1-ea4f75ff707c",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1016/j.learninstruc.2026.102471",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:17.016Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.neuron.2013.07.007",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-813e-bebe-da2016047e06",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-813e-bebe-da2016047e06",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1016/j.neuron.2013.07.007",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:10.683Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.tate.2022.103717",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81d1-83b8-dd9cc81d781f",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81d1-83b8-dd9cc81d781f",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1016/j.tate.2022.103717",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:19.215Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.tics.2018.01.007",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8117-aee6-ca2f55be9a60",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8117-aee6-ca2f55be9a60",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1016/j.tics.2018.01.007",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:04.621Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/0033-2909.128.5.774",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8157-a217-ff0c6ad325af",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8157-a217-ff0c6ad325af",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/0033-2909.128.5.774",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:12.420Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/a0016374",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8161-9dc9-f14c73d96c51",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8161-9dc9-f14c73d96c51",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/a0016374",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:12.696Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/a0019745",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-817d-be77-fea28b371f52",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-817d-be77-fea28b371f52",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/a0019745",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:16.729Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/a0020198",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81e6-a319-ebf5b6c8fd80",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81e6-a319-ebf5b6c8fd80",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/a0020198",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:20.395Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/dev0000146",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8199-b672-c2818a2c6682",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8199-b672-c2818a2c6682",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/dev0000146",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:17.280Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/mot0000124",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81ef-891f-e538bffc1ad6",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81ef-891f-e538bffc1ad6",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/mot0000124",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:21.387Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/pspa0000443",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/pspa0000443",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:18.895Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/xge0001428",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-811a-8d92-c6b7ec822885",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-811a-8d92-c6b7ec822885",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/xge0001428",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:06.031Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/xge0001785",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-817d-b2c2-ebe2a265fee9",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-817d-b2c2-ebe2a265fee9",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/xge0001785",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:13.492Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/xge0001904",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/xge0001904",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:03.660Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/xge0001916",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8141-bcf9-f8e67caee12f",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8141-bcf9-f8e67caee12f",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1037/xge0001916",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:11.790Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1038/s41562-024-01842-7",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81c4-b315-d12447f11234",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81c4-b315-d12447f11234",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1038/s41562-024-01842-7",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:18.347Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1080/00461520.2016.1207538",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8111-a9ce-c91cb9a955f1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8111-a9ce-c91cb9a955f1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1080/00461520.2016.1207538",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:02.296Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1093/cdpers/aadag009",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8118-8569-e029fa2ee7e4",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8118-8569-e029fa2ee7e4",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1093/cdpers/aadag009",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:05.711Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1111/cdep.12284",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81fb-a8cc-d725b596738c",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81fb-a8cc-d725b596738c",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1111/cdep.12284",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:22.472Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1111/cdev.12101",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8131-9558-f6a1973f8f03",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8131-9558-f6a1973f8f03",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1111/cdev.12101",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:08.836Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1111/cdev.13829",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8141-89ee-c7f8e05bd23b",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8141-89ee-c7f8e05bd23b",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1111/cdev.13829",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:11.141Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1146/annurev-psych-010418-103230",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81b2-bbae-f43812d46c31",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81b2-bbae-f43812d46c31",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1146/annurev-psych-010418-103230",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:18.062Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1177/0956797610384745",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8171-853e-fe64241ddad6",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8171-853e-fe64241ddad6",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.1177/0956797610384745",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:12.971Z"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3102/0034654316689328",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8107-b286-c6125f88d479",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8107-b286-c6125f88d479",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://api.crossref.org/works/10.3102/0034654316689328",
+    "title": null,
+    "status": "reachable",
+    "targetStatus": "bibliographic-metadata-endpoint",
+    "checkedAt": "2026-10-22T06:08:01.594Z"
+  },
+  {
+    "url": "https://doi.org/10.1007/s10648-023-09766-w",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8108-933c-c06c8e54f075",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8108-933c-c06c8e54f075",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8108-933c-c06c8e54f075",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "teams:s2d2-network",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:400a335d-9621-8108-933c-c06c8e54f075-0-1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://link.springer.com/article/10.1007/s10648-023-09766-w?error=cookies_not_supported&code=b5fb1563-88ad-4879-b426-1ed5f963e4a5",
+    "title": "Worth the Effort: the Start and Stick to Desirable Difficulties (S2D2) Framework | Educational Psychology Review | Springer Nature Link",
+    "status": "reachable",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:05.717Z"
+  },
+  {
+    "url": "https://doi.org/10.1007/s11218-022-09689-4",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-813b-9205-c9f84f717f53",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-813b-9205-c9f84f717f53",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-813b-9205-c9f84f717f53",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://link.springer.com/article/10.1007/s11218-022-09689-4?error=cookies_not_supported&code=9729a5ce-5533-45de-ba68-4a7d04e6f261",
+    "title": "Towards fostering growth mindset classrooms: identifying teaching behaviors that signal instructors’ fixed and growth mindsets beliefs to students | Social Psychology of Education | Springer Nature Link",
+    "status": "reachable",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:12.134Z"
+  },
+  {
+    "url": "https://doi.org/10.1007/s11409-025-09446-w",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8121-b00b-ff13296f1dc9",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8121-b00b-ff13296f1dc9",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8121-b00b-ff13296f1dc9",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "updates:pub-400a335d-9621-8121-b00b-ff13296f1dc9",
+        "field": "sourceURL"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://link.springer.com/article/10.1007/s11409-025-09446-w?error=cookies_not_supported&code=d1d1d5d4-f54f-4306-b7ce-414e5e54977e",
+    "title": "Testing the misinterpreted effort hypothesis: reframing effort changes perceived effort and its relationship to perceived learning, but does not affect decisions to interleave | Metacognition and Learning | Springer Nature Link",
+    "status": "reachable",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:09.999Z"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.cedpsych.2008.01.005",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81a0-a655-cb2d8a7d235d",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81a0-a655-cb2d8a7d235d",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-81a0-a655-cb2d8a7d235d",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://linkinghub.elsevier.com/retrieve/pii/S0361476X08000088",
+    "title": "Redirecting",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:18.563Z"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.cogpsych.2019.101237",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8147-816c-cd739b5d6ec1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8147-816c-cd739b5d6ec1",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8147-816c-cd739b5d6ec1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://linkinghub.elsevier.com/retrieve/pii/S0010028519302270",
+    "title": "Redirecting",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:11.901Z"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.jecp.2025.106431",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8125-96ca-d1bb2b19fa13",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8125-96ca-d1bb2b19fa13",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8125-96ca-d1bb2b19fa13",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://linkinghub.elsevier.com/retrieve/pii/S0022096525002383",
+    "title": "Redirecting",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:06.962Z"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.learninstruc.2016.12.002",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8113-82c6-d9238dabb2c1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8113-82c6-d9238dabb2c1",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8113-82c6-d9238dabb2c1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://linkinghub.elsevier.com/retrieve/pii/S0959475216302869",
+    "title": "Redirecting",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:03.371Z"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102471",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8194-80e1-ea4f75ff707c",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8194-80e1-ea4f75ff707c",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8194-80e1-ea4f75ff707c",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8194-80e1-ea4f75ff707c",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://linkinghub.elsevier.com/retrieve/pii/S0959475226001568",
+    "title": "Redirecting",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:17.782Z"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.neubiorev.2026.106978",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8153-b96f-c52e4b415761",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8153-b96f-c52e4b415761",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8153-b96f-c52e4b415761",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:400a335d-9621-8153-b96f-c52e4b415761-0-1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "updates:pub-400a335d-9621-8153-b96f-c52e4b415761",
+        "field": "sourceURL"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://linkinghub.elsevier.com/retrieve/pii/S0149763426004355",
+    "title": "Redirecting",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:12.415Z"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.neuron.2013.07.007",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-813e-bebe-da2016047e06",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-813e-bebe-da2016047e06",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-813e-bebe-da2016047e06",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://linkinghub.elsevier.com/retrieve/pii/S0896627313006077",
+    "title": "Redirecting",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:10.847Z"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.tate.2022.103717",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81d1-83b8-dd9cc81d781f",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81d1-83b8-dd9cc81d781f",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-81d1-83b8-dd9cc81d781f",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://linkinghub.elsevier.com/retrieve/pii/S0742051X22000919",
+    "title": "Redirecting",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:19.619Z"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.tics.2018.01.007",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8117-aee6-ca2f55be9a60",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8117-aee6-ca2f55be9a60",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8117-aee6-ca2f55be9a60",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:400a335d-9621-8117-aee6-ca2f55be9a60-0-1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://linkinghub.elsevier.com/retrieve/pii/S1364661318300202",
+    "title": "Redirecting",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:04.341Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/0033-2909.128.5.774",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8157-a217-ff0c6ad325af",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8157-a217-ff0c6ad325af",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8157-a217-ff0c6ad325af",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:16.682Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/a0016374",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8161-9dc9-f14c73d96c51",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8161-9dc9-f14c73d96c51",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8161-9dc9-f14c73d96c51",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:16.707Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/a0019745",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-817d-be77-fea28b371f52",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-817d-be77-fea28b371f52",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-817d-be77-fea28b371f52",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:17.508Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/a0020198",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81e6-a319-ebf5b6c8fd80",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81e6-a319-ebf5b6c8fd80",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-81e6-a319-ebf5b6c8fd80",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:24.056Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/dev0000146",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8199-b672-c2818a2c6682",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8199-b672-c2818a2c6682",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8199-b672-c2818a2c6682",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:20.126Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/edu0000068",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81e4-b807-c4a641f65f9b",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81e4-b807-c4a641f65f9b",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-81e4-b807-c4a641f65f9b",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:400a335d-9621-81e4-b807-c4a641f65f9b-0-1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:23.119Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/mot0000124",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81ef-891f-e538bffc1ad6",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81ef-891f-e538bffc1ad6",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-81ef-891f-e538bffc1ad6",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:23.678Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/pspa0000443",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "updates:pub-400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "sourceURL"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:22.355Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/xge0001259",
+    "owners": [
+      {
+        "owner": "papers:celniker-2023-moralization",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:celniker-2023-moralization",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:celniker-2023-moralization",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:25.201Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/xge0001428",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-811a-8d92-c6b7ec822885",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-811a-8d92-c6b7ec822885",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-811a-8d92-c6b7ec822885",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:11.325Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/xge0001785",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-817d-b2c2-ebe2a265fee9",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-817d-b2c2-ebe2a265fee9",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-817d-b2c2-ebe2a265fee9",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:16.447Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/xge0001904",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:10.385Z"
+  },
+  {
+    "url": "https://doi.org/10.1037/xge0001916",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8141-bcf9-f8e67caee12f",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8141-bcf9-f8e67caee12f",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8141-bcf9-f8e67caee12f",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sso.apa.org/apasso/idm/login",
+    "title": "Log in - American Psychological Association",
+    "status": "authentication-gate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:16.863Z"
+  },
+  {
+    "url": "https://doi.org/10.1038/s41562-024-01842-7",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81c4-b315-d12447f11234",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81c4-b315-d12447f11234",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-81c4-b315-d12447f11234",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:400a335d-9621-81c4-b315-d12447f11234-0-1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "updates:pub-400a335d-9621-81c4-b315-d12447f11234",
+        "field": "sourceURL"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://www.nature.com/articles/s41562-024-01842-7?error=cookies_not_supported&code=6a203592-4861-48c4-97c8-792e51fb725f",
+    "title": "An experimental manipulation of the value of effort | Nature Human Behaviour",
+    "status": "reachable",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:21.108Z"
+  },
+  {
+    "url": "https://doi.org/10.1080/00461520.2016.1207538",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8111-a9ce-c91cb9a955f1",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8111-a9ce-c91cb9a955f1",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8111-a9ce-c91cb9a955f1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 403,
+    "finalURL": "https://www.tandfonline.com/doi/full/10.1080/00461520.2016.1207538",
+    "title": "Just a moment...",
+    "status": "access-restricted",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:02.470Z"
+  },
+  {
+    "url": "https://doi.org/10.1093/cdpers/aadag009",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8118-8569-e029fa2ee7e4",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8118-8569-e029fa2ee7e4",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8118-8569-e029fa2ee7e4",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "updates:pub-400a335d-9621-8118-8569-e029fa2ee7e4",
+        "field": "sourceURL"
+      }
+    ],
+    "httpStatus": 403,
+    "finalURL": "https://academic.oup.com/cdpers/article/20/3/203/8724234",
+    "title": "Just a moment...",
+    "status": "access-restricted",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:05.432Z"
+  },
+  {
+    "url": "https://doi.org/10.1111/cdep.12284",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81fb-a8cc-d725b596738c",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81fb-a8cc-d725b596738c",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-81fb-a8cc-d725b596738c",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 403,
+    "finalURL": "https://academic.oup.com/cdpers/article/12/3/199/8231512",
+    "title": "Just a moment...",
+    "status": "access-restricted",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:22.191Z"
+  },
+  {
+    "url": "https://doi.org/10.1111/cdev.12101",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8131-9558-f6a1973f8f03",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8131-9558-f6a1973f8f03",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8131-9558-f6a1973f8f03",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 403,
+    "finalURL": "https://academic.oup.com/chidev/article/84/6/1879/8267300",
+    "title": "Just a moment...",
+    "status": "access-restricted",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:08.535Z"
+  },
+  {
+    "url": "https://doi.org/10.1111/cdev.13829",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8141-89ee-c7f8e05bd23b",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8141-89ee-c7f8e05bd23b",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8141-89ee-c7f8e05bd23b",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 403,
+    "finalURL": "https://academic.oup.com/chidev/article/93/6/1889/8255120",
+    "title": "Just a moment...",
+    "status": "access-restricted",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:12.041Z"
+  },
+  {
+    "url": "https://doi.org/10.1146/annurev-psych-010418-103230",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81b2-bbae-f43812d46c31",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81b2-bbae-f43812d46c31",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-81b2-bbae-f43812d46c31",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 403,
+    "finalURL": "https://www.annualreviews.org/doi/10.1146/annurev-psych-010418-103230",
+    "title": "Just a moment...",
+    "status": "access-restricted",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:18.627Z"
+  },
+  {
+    "url": "https://doi.org/10.1177/01461672221135954",
+    "owners": [
+      {
+        "owner": "papers:berry-lucas-2024-prosocial-effort",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:berry-lucas-2024-prosocial-effort",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:berry-lucas-2024-prosocial-effort",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sage.cnpereading.com/doi/10.1177/01461672221135954",
+    "title": "How Much Is Enough? The Relationship Between Prosocial Effort and Moral Character Judgments",
+    "status": "reachable",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:23.615Z"
+  },
+  {
+    "url": "https://doi.org/10.1177/0956797610384745",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8171-853e-fe64241ddad6",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8171-853e-fe64241ddad6",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8171-853e-fe64241ddad6",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sage.cnpereading.com/doi/10.1177/0956797610384745",
+    "title": "Ego Depletion—Is It All in Your Head?",
+    "status": "reachable",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:13.213Z"
+  },
+  {
+    "url": "https://doi.org/10.3102/0034654316689328",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8107-b286-c6125f88d479",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8107-b286-c6125f88d479",
+        "field": "primaryURL"
+      },
+      {
+        "owner": "papers:400a335d-9621-8107-b286-c6125f88d479",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:400a335d-9621-8107-b286-c6125f88d479-0-1",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sage.cnpereading.com/doi/10.3102/0034654316689328",
+    "title": "Students’ Thinking About Effort and Ability: The Role of Developmental,Contextual,and Individual Difference Factors",
+    "status": "reachable",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:02.007Z"
+  },
+  {
+    "url": "https://dornsife.usc.edu/daphna-oyserman/",
+    "owners": [
+      {
+        "owner": "researchers:oyserman",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:oyserman",
+        "field": "sources"
+      },
+      {
+        "owner": "teams:oyserman-group",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "organizations:usc",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://dornsife.usc.edu/daphna-oyserman/",
+    "title": "Home - Daphna Oyserman",
+    "status": "reachable",
+    "targetStatus": "official-page-name-matched",
+    "checkedAt": "2026-10-22T06:08:25.096Z"
+  },
+  {
+    "url": "https://eric.ed.gov/?id=EJ1147729",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8107-b286-c6125f88d479",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8107-b286-c6125f88d479",
+        "field": "sourceURLs"
+      }
+    ],
+    "status": "unconfirmed",
+    "error": "fetch failed",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:11.062Z"
+  },
+  {
+    "url": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson",
+    "owners": [
+      {
+        "owner": "organizations:ut",
+        "field": "sourceURL"
+      },
+      {
+        "owner": "organizations:bc",
+        "field": "sourceURL"
+      },
+      {
+        "owner": "organizations:ecnu",
+        "field": "sourceURL"
+      },
+      {
+        "owner": "organizations:usc",
+        "field": "sourceURL"
+      },
+      {
+        "owner": "organizations:vienna",
+        "field": "sourceURL"
+      },
+      {
+        "owner": "organizations:toronto",
+        "field": "sourceURL"
+      },
+      {
+        "owner": "organizations:maastricht",
+        "field": "sourceURL"
+      },
+      {
+        "owner": "organizations:berkeley",
+        "field": "sourceURL"
+      },
+      {
+        "owner": "organizations:geneva",
+        "field": "sourceURL"
+      },
+      {
+        "owner": "organizations:hamburg",
+        "field": "sourceURL"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson",
+    "title": "natural-earth-vector/geojson/ne_10m_populated_places_simple.geojson at master · nvkelso/natural-earth-vector · GitHub",
+    "status": "reachable",
+    "targetStatus": "needs-content-review",
+    "checkedAt": "2026-10-22T06:08:28.371Z"
+  },
+  {
+    "url": "https://michaelinzlicht.com/research",
+    "owners": [
+      {
+        "owner": "researchers:inzlicht",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:inzlicht",
+        "field": "sources"
+      },
+      {
+        "owner": "teams:work-play",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "organizations:toronto",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://michaelinzlicht.com/research",
+    "title": "Research &mdash; Michael Inzlicht",
+    "status": "reachable",
+    "targetStatus": "official-page-name-matched",
+    "checkedAt": "2026-10-22T06:08:25.186Z"
+  },
+  {
+    "url": "https://mot-psy.univie.ac.at/en/ueber-uns/veronika-job",
+    "owners": [
+      {
+        "owner": "researchers:job",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:job",
+        "field": "sources"
+      },
+      {
+        "owner": "teams:job-group",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "organizations:vienna",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://mot-psy.univie.ac.at/en/ueber-uns/veronika-job",
+    "title": "Veronika Job",
+    "status": "reachable",
+    "targetStatus": "official-page-name-matched",
+    "checkedAt": "2026-10-22T06:08:25.863Z"
+  },
+  {
+    "url": "https://orcid.org/0000-0001-8280-0797",
+    "owners": [
+      {
+        "owner": "researchers:miele",
+        "field": "orcid"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://orcid.org/0000-0001-8280-0797",
+    "title": "ORCID",
+    "status": "reachable",
+    "targetStatus": "needs-content-review",
+    "checkedAt": "2026-10-22T06:08:27.443Z"
+  },
+  {
+    "url": "https://psychology.berkeley.edu/people/amitai-shenhav",
+    "owners": [
+      {
+        "owner": "researchers:shenhav",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:shenhav",
+        "field": "sources"
+      },
+      {
+        "owner": "teams:shenhav-lab",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "organizations:berkeley",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://psychology.berkeley.edu/people/amitai-shenhav",
+    "title": "Amitai Shenhav | Psychology",
+    "status": "reachable",
+    "targetStatus": "official-page-name-matched",
+    "checkedAt": "2026-10-22T06:08:26.723Z"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35901413/",
+    "owners": [
+      {
+        "owner": "papers:celniker-2023-moralization",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:celniker-2023-moralization",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:celniker-2023-moralization",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "topics:moral-value",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 203,
+    "finalURL": "https://pubmed.ncbi.nlm.nih.gov/35901413/",
+    "title": "pubmed.ncbi.nlm.nih.gov",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:22.766Z"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36575959/",
+    "owners": [
+      {
+        "owner": "papers:berry-lucas-2024-prosocial-effort",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:berry-lucas-2024-prosocial-effort",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:berry-lucas-2024-prosocial-effort",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "topics:moral-value",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 203,
+    "finalURL": "https://pubmed.ncbi.nlm.nih.gov/36575959/",
+    "title": "pubmed.ncbi.nlm.nih.gov",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:23.394Z"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40029322/",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81cb-ac8b-f0ae921ba417",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 203,
+    "finalURL": "https://pubmed.ncbi.nlm.nih.gov/40029322/",
+    "title": "pubmed.ncbi.nlm.nih.gov",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:18.943Z"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42762705/",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8153-b96f-c52e4b415761",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8153-b96f-c52e4b415761",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "teams:wolff-group",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 203,
+    "finalURL": "https://pubmed.ncbi.nlm.nih.gov/42762705/",
+    "title": "pubmed.ncbi.nlm.nih.gov",
+    "status": "intermediate",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:12.422Z"
+  },
+  {
+    "url": "https://sites.edb.utexas.edu/lamb/",
+    "owners": [
+      {
+        "owner": "researchers:muenks",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:muenks",
+        "field": "sources"
+      },
+      {
+        "owner": "teams:lamb",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:org-0-8",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sites.edb.utexas.edu/lamb/",
+    "title": "Learning and Motivational Beliefs Lab",
+    "status": "reachable",
+    "targetStatus": "official-lab-page; PI identity manually checked 2026-10-22",
+    "checkedAt": "2026-10-22T06:08:24.818Z"
+  },
+  {
+    "url": "https://sites.edb.utexas.edu/lamb/pubs/",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8107-b286-c6125f88d479",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8107-b286-c6125f88d479",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81e4-b807-c4a641f65f9b",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-81e4-b807-c4a641f65f9b",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sites.edb.utexas.edu/lamb/pubs/",
+    "title": "Publications - Learning and Motivational Beliefs Lab",
+    "status": "reachable",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:05.865Z"
+  },
+  {
+    "url": "https://sites.edb.utexas.edu/slam/",
+    "owners": [
+      {
+        "owner": "researchers:yan",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:yan",
+        "field": "sources"
+      },
+      {
+        "owner": "teams:slam",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "organizations:ut",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:org-0-8",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sites.edb.utexas.edu/slam/",
+    "title": "Science of Learning and Metacognition Lab",
+    "status": "reachable",
+    "targetStatus": "official-lab-page; PI identity manually checked 2026-10-22",
+    "checkedAt": "2026-10-22T06:08:25.846Z"
+  },
+  {
+    "url": "https://sites.rutgers.edu/cahbir/people/andrew-westbrook/",
+    "owners": [
+      {
+        "owner": "researchers:westbrook",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:westbrook",
+        "field": "sources"
+      },
+      {
+        "owner": "teams:westbrook-group",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "organizations:rutgers",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://sites.rutgers.edu/cahbir/people/andrew-westbrook/",
+    "title": "Andrew Westbrook, Ph.D. - Center for Advanced Human Brain Imaging Research",
+    "status": "reachable",
+    "targetStatus": "official-page-name-matched",
+    "checkedAt": "2026-10-22T06:08:26.828Z"
+  },
+  {
+    "url": "https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/david-miele.html",
+    "owners": [
+      {
+        "owner": "researchers:miele",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:miele",
+        "field": "sources"
+      },
+      {
+        "owner": "teams:mml",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "organizations:bc",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/david-miele.html",
+    "title": "David Miele - Lynch School of Education and Human Development - Boston College",
+    "status": "reachable",
+    "targetStatus": "official-page-name-matched",
+    "checkedAt": "2026-10-22T06:08:24.607Z"
+  },
+  {
+    "url": "https://www.bw.uni-hamburg.de/en/arbeitsbereiche/sport-individuum-gesellschaft/personen/wolf-wanja.html",
+    "owners": [
+      {
+        "owner": "researchers:wolff",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:wolff",
+        "field": "sources"
+      },
+      {
+        "owner": "organizations:hamburg",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://www.bw.uni-hamburg.de/en/arbeitsbereiche/sport-individuum-gesellschaft/personen/wolf-wanja.html",
+    "title": "Prof. Dr. Wanja Wolff : Institute of Human Movement Science : University of Hamburg",
+    "status": "reachable",
+    "targetStatus": "official-page-name-matched",
+    "checkedAt": "2026-10-22T06:08:28.353Z"
+  },
+  {
+    "url": "https://www.dep.ecnu.edu.cn/6b/27/c16533a748327/page.htm",
+    "owners": [
+      {
+        "owner": "researchers:zhao",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:zhao",
+        "field": "sources"
+      },
+      {
+        "owner": "teams:zhao-group",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "organizations:ecnu",
+        "field": "sourceURLs"
+      }
+    ],
+    "status": "unconfirmed",
+    "error": "fetch failed",
+    "targetStatus": "official-source-retained; current-target-needs-review",
+    "checkedAt": "2026-10-22T06:08:23.843Z"
+  },
+  {
+    "url": "https://www.maastrichtuniversity.nl/f-biwer/research",
+    "owners": [
+      {
+        "owner": "researchers:biwer",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:biwer",
+        "field": "sources"
+      },
+      {
+        "owner": "organizations:maastricht",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:org-6-7",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://www.maastrichtuniversity.nl/f-biwer/research",
+    "title": "Felicitas Biwer (F.) - Felicitas Biwer (F.) - Maastricht University",
+    "status": "reachable",
+    "targetStatus": "official-page-name-matched",
+    "checkedAt": "2026-10-22T06:08:26.892Z"
+  },
+  {
+    "url": "https://www.maastrichtuniversity.nl/nl/nieuws/anique-de-bruin-wordt-de-nieuwe-wetenschappelijk-directeur-van-she",
+    "owners": [
+      {
+        "owner": "researchers:debruin",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:debruin",
+        "field": "sources"
+      },
+      {
+        "owner": "projects:study-smart",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "relations:org-6-7",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 200,
+    "finalURL": "https://www.maastrichtuniversity.nl/nl/nieuws/anique-de-bruin-wordt-de-nieuwe-wetenschappelijk-directeur-van-she",
+    "title": "Anique de Bruin wordt de nieuwe wetenschappelijk directeur van SHE - - Maastricht University",
+    "status": "reachable",
+    "targetStatus": "official-page-name-matched",
+    "checkedAt": "2026-10-22T06:08:26.500Z"
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0959475226001568",
+    "owners": [
+      {
+        "owner": "papers:400a335d-9621-8194-80e1-ea4f75ff707c",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8194-80e1-ea4f75ff707c",
+        "field": "sourceURLs"
+      },
+      {
+        "owner": "papers:400a335d-9621-8194-80e1-ea4f75ff707c",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 403,
+    "finalURL": "https://www.sciencedirect.com/science/article/pii/S0959475226001568",
+    "title": "ScienceDirect",
+    "status": "access-restricted",
+    "targetStatus": "identity-confirmed-by-bibliographic-source; full-text-access-not-implied",
+    "checkedAt": "2026-10-22T06:08:17.920Z"
+  },
+  {
+    "url": "https://www.unige.ch/fapse/motivation/",
+    "owners": [
+      {
+        "owner": "teams:geneva-lab",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 503,
+    "finalURL": "https://www.unige.ch/fapse/motivation/",
+    "title": "Error 503",
+    "status": "http-error",
+    "targetStatus": "needs-content-review",
+    "checkedAt": "2026-10-22T06:08:27.600Z"
+  },
+  {
+    "url": "https://www.unige.ch/fapse/motivation/gendolla.html",
+    "owners": [
+      {
+        "owner": "researchers:gendolla",
+        "field": "website"
+      },
+      {
+        "owner": "researchers:gendolla",
+        "field": "sources"
+      },
+      {
+        "owner": "organizations:geneva",
+        "field": "sourceURLs"
+      }
+    ],
+    "httpStatus": 503,
+    "finalURL": "https://www.unige.ch/fapse/motivation/gendolla.html",
+    "title": "Error 503",
+    "status": "http-error",
+    "targetStatus": "official-source-retained; current-target-needs-review",
+    "checkedAt": "2026-10-22T06:08:27.239Z"
+  }
+]

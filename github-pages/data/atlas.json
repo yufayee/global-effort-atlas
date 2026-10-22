@@ -1,0 +1,3882 @@
+{
+  "schemaVersion": 2,
+  "importedAt": "2026-10-21",
+  "scope": "12组代表性种子，不是全球完整名录或文献计量样本",
+  "themes": [
+    {
+      "id": "beliefs",
+      "nameZh": "信念与意义",
+      "nameEn": "Beliefs & Meaning",
+      "question": "努力意味着能力不足、成长，还是困难值得克服？",
+      "boundary": "能力诊断与能力发展不可混同。",
+      "sourceURLs": []
+    },
+    {
+      "id": "value",
+      "nameZh": "价值与成本",
+      "nameEn": "Cost & Value",
+      "question": "努力为什么是成本，又如何获得价值与意义？",
+      "boundary": "困难选择不等于努力价值习得。",
+      "sourceURLs": []
+    },
+    {
+      "id": "regulation",
+      "nameZh": "选择与调节",
+      "nameEn": "Choice & Regulation",
+      "question": "何时开始、持续、调整或停止投入？",
+      "boundary": "坚持时长与策略质量是不同结果。",
+      "sourceURLs": []
+    },
+    {
+      "id": "learning",
+      "nameZh": "努力与有效学习",
+      "nameEn": "Effective Learning",
+      "question": "为什么有效的学习策略让人感到费力？",
+      "boundary": "主观学习感受不等于客观学习收益。",
+      "sourceURLs": []
+    },
+    {
+      "id": "mechanisms",
+      "nameZh": "认知与生理机制",
+      "nameEn": "Cognitive & Physiological Mechanisms",
+      "question": "努力如何被分配、体验与测量？",
+      "boundary": "自陈、行为、生理指标不能互相替代。",
+      "sourceURLs": []
+    }
+  ],
+  "organizations": [
+    {
+      "id": "ut",
+      "name": "University of Texas at Austin",
+      "city": "Austin",
+      "country": "United States of America",
+      "sourceURLs": [
+        "https://sites.edb.utexas.edu/slam/"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "城市级示意，非实验室精确位置",
+      "location": {
+        "coordinates": [
+          -97.744724,
+          30.268895
+        ],
+        "precision": "city",
+        "label": "Austin",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "bc",
+      "name": "Boston College",
+      "city": "Boston",
+      "country": "United States of America",
+      "sourceURLs": [
+        "https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/david-miele.html"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "Boston 都市区示意，非校园精确位置",
+      "location": {
+        "coordinates": [
+          -71.07196,
+          42.331906
+        ],
+        "precision": "city",
+        "label": "Boston",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "ecnu",
+      "name": "华东师范大学",
+      "city": "Shanghai",
+      "country": "China",
+      "sourceURLs": [
+        "https://www.dep.ecnu.edu.cn/6b/27/c16533a748327/page.htm"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "城市级示意，非实验室精确位置",
+      "location": {
+        "coordinates": [
+          121.434559,
+          31.218398
+        ],
+        "precision": "city",
+        "label": "Shanghai",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "usc",
+      "name": "University of Southern California",
+      "city": "Los Angeles",
+      "country": "United States of America",
+      "sourceURLs": [
+        "https://dornsife.usc.edu/daphna-oyserman/"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "城市级示意，非实验室精确位置",
+      "location": {
+        "coordinates": [
+          -118.231986,
+          34.049219
+        ],
+        "precision": "city",
+        "label": "Los Angeles",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "vienna",
+      "name": "University of Vienna",
+      "city": "Vienna",
+      "country": "Austria",
+      "sourceURLs": [
+        "https://mot-psy.univie.ac.at/en/ueber-uns/veronika-job"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "城市级示意，非实验室精确位置",
+      "location": {
+        "coordinates": [
+          16.364693,
+          48.201961
+        ],
+        "precision": "city",
+        "label": "Vienna",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "toronto",
+      "name": "University of Toronto",
+      "city": "Toronto",
+      "country": "Canada",
+      "sourceURLs": [
+        "https://michaelinzlicht.com/research"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "城市级示意，非实验室精确位置",
+      "location": {
+        "coordinates": [
+          -79.389459,
+          43.664645
+        ],
+        "precision": "city",
+        "label": "Toronto",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "maastricht",
+      "name": "Maastricht University",
+      "city": "Maastricht",
+      "country": "Netherlands",
+      "sourceURLs": [
+        "https://www.maastrichtuniversity.nl/f-biwer/research"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "城市级示意，非实验室精确位置",
+      "location": {
+        "coordinates": [
+          5.677003,
+          50.852997
+        ],
+        "precision": "city",
+        "label": "Maastricht",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "berkeley",
+      "name": "University of California, Berkeley",
+      "city": "Berkeley",
+      "country": "United States of America",
+      "sourceURLs": [
+        "https://psychology.berkeley.edu/people/amitai-shenhav"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "城市级示意，非实验室精确位置",
+      "location": {
+        "coordinates": [
+          -122.271152,
+          37.873901
+        ],
+        "precision": "city",
+        "label": "Berkeley",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "rutgers",
+      "name": "Rutgers University · CAHBIR",
+      "city": "Piscataway",
+      "country": "United States of America",
+      "sourceURLs": [
+        "https://sites.rutgers.edu/cahbir/people/andrew-westbrook/"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "公开城市底图无匹配坐标，保留列表入口",
+      "location": null,
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "geneva",
+      "name": "University of Geneva",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "sourceURLs": [
+        "https://www.unige.ch/fapse/motivation/gendolla.html"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "城市级示意，非实验室精确位置",
+      "location": {
+        "coordinates": [
+          6.140028,
+          46.210008
+        ],
+        "precision": "city",
+        "label": "Geneva",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "hamburg",
+      "name": "University of Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "sourceURLs": [
+        "https://www.bw.uni-hamburg.de/en/arbeitsbereiche/sport-individuum-gesellschaft/personen/wolf-wanja.html"
+      ],
+      "verification": "official-source-checked",
+      "locationNote": "城市级示意，非实验室精确位置",
+      "location": {
+        "coordinates": [
+          9.998053,
+          53.551971
+        ],
+        "precision": "city",
+        "label": "Hamburg",
+        "sourceURL": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places_simple.geojson"
+      },
+      "checkedAt": "2026-10-21"
+    }
+  ],
+  "researchers": [
+    {
+      "id": "muenks",
+      "nameEn": "Katherine Muenks",
+      "nameZh": null,
+      "family": "Muenks",
+      "organizationId": "ut",
+      "themes": [
+        "beliefs",
+        "learning"
+      ],
+      "question": "努力—能力信念；挑战框架；师生与同伴的能力线索",
+      "website": "https://sites.edb.utexas.edu/lamb/",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "ut"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://sites.edb.utexas.edu/lamb/"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "miele",
+      "nameEn": "David B. Miele",
+      "nameZh": null,
+      "family": "Miele",
+      "organizationId": "bc",
+      "themes": [
+        "beliefs",
+        "regulation"
+      ],
+      "question": "努力信念、元认知判断与元动机调节",
+      "website": "https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/david-miele.html",
+      "methods": [],
+      "orcid": "0000-0001-8280-0797",
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "bc"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/david-miele.html"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "zhao",
+      "nameEn": "Xin Zhao",
+      "nameZh": "赵欣",
+      "family": "Zhao",
+      "organizationId": "ecnu",
+      "themes": [
+        "beliefs",
+        "regulation"
+      ],
+      "question": "儿童成就限制信念、挑战选择与坚持",
+      "website": "https://www.dep.ecnu.edu.cn/6b/27/c16533a748327/page.htm",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "ecnu"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://www.dep.ecnu.edu.cn/6b/27/c16533a748327/page.htm"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "oyserman",
+      "nameEn": "Daphna Oyserman",
+      "nameZh": null,
+      "family": "Oyserman",
+      "organizationId": "usc",
+      "themes": [
+        "beliefs"
+      ],
+      "question": "身份基础动机：困难意味着重要还是不可能？",
+      "website": "https://dornsife.usc.edu/daphna-oyserman/",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "usc"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://dornsife.usc.edu/daphna-oyserman/"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "job",
+      "nameEn": "Veronika Job",
+      "nameZh": null,
+      "family": "Job",
+      "organizationId": "vienna",
+      "themes": [
+        "beliefs",
+        "value"
+      ],
+      "question": "意志力信念、努力愉悦与任务选择",
+      "website": "https://mot-psy.univie.ac.at/en/ueber-uns/veronika-job",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "vienna"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://mot-psy.univie.ac.at/en/ueber-uns/veronika-job"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "inzlicht",
+      "nameEn": "Michael Inzlicht",
+      "nameZh": null,
+      "family": "Inzlicht",
+      "organizationId": "toronto",
+      "themes": [
+        "value",
+        "regulation"
+      ],
+      "question": "努力的成本、价值、意义与社会规范",
+      "website": "https://michaelinzlicht.com/research",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "toronto"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://michaelinzlicht.com/research"
+      ],
+      "websiteKind": "researcher-website"
+    },
+    {
+      "id": "debruin",
+      "nameEn": "Anique de Bruin",
+      "nameZh": null,
+      "family": "de Bruin",
+      "organizationId": "maastricht",
+      "themes": [
+        "learning",
+        "regulation"
+      ],
+      "question": "努力监控与调节；有效学习策略的启动和持续",
+      "website": "https://www.maastrichtuniversity.nl/nl/nieuws/anique-de-bruin-wordt-de-nieuwe-wetenschappelijk-directeur-van-she",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "maastricht"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://www.maastrichtuniversity.nl/nl/nieuws/anique-de-bruin-wordt-de-nieuwe-wetenschappelijk-directeur-van-she"
+      ],
+      "websiteKind": "university-announcement"
+    },
+    {
+      "id": "biwer",
+      "nameEn": "Felicitas Biwer",
+      "nameZh": null,
+      "family": "Biwer",
+      "organizationId": "maastricht",
+      "themes": [
+        "learning"
+      ],
+      "question": "有效学习策略、可取困难与自我调节",
+      "website": "https://www.maastrichtuniversity.nl/f-biwer/research",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "maastricht"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://www.maastrichtuniversity.nl/f-biwer/research"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "yan",
+      "nameEn": "Veronica X. Yan",
+      "nameZh": null,
+      "family": "Yan",
+      "organizationId": "ut",
+      "themes": [
+        "learning",
+        "beliefs"
+      ],
+      "question": "学习判断、困难解释、学习策略选择",
+      "website": "https://sites.edb.utexas.edu/slam/",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "ut"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://sites.edb.utexas.edu/slam/"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "shenhav",
+      "nameEn": "Amitai Shenhav",
+      "nameZh": null,
+      "family": "Shenhav",
+      "organizationId": "berkeley",
+      "themes": [
+        "mechanisms",
+        "regulation"
+      ],
+      "question": "控制分配的价值计算与认知努力",
+      "website": "https://psychology.berkeley.edu/people/amitai-shenhav",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "berkeley"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://psychology.berkeley.edu/people/amitai-shenhav"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "westbrook",
+      "nameEn": "Andrew Westbrook",
+      "nameZh": null,
+      "family": "Westbrook",
+      "organizationId": "rutgers",
+      "themes": [
+        "mechanisms",
+        "value"
+      ],
+      "question": "认知努力的成本收益、多巴胺与神经调控",
+      "website": "https://sites.rutgers.edu/cahbir/people/andrew-westbrook/",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "rutgers"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://sites.rutgers.edu/cahbir/people/andrew-westbrook/"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "gendolla",
+      "nameEn": "Guido Gendolla",
+      "nameZh": null,
+      "family": "Gendolla",
+      "organizationId": "geneva",
+      "themes": [
+        "mechanisms",
+        "regulation"
+      ],
+      "question": "动机强度、任务需求与心血管努力动员",
+      "website": "https://www.unige.ch/fapse/motivation/gendolla.html",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "geneva"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://www.unige.ch/fapse/motivation/gendolla.html"
+      ],
+      "websiteKind": "university-or-lab"
+    },
+    {
+      "id": "wolff",
+      "nameEn": "Wanja Wolff",
+      "nameZh": null,
+      "family": "Wolff",
+      "organizationId": "hamburg",
+      "themes": [
+        "regulation",
+        "mechanisms"
+      ],
+      "question": "努力投入与表现增益何时脱钩？",
+      "website": "https://www.bw.uni-hamburg.de/en/arbeitsbereiche/sport-individuum-gesellschaft/personen/wolf-wanja.html",
+      "methods": [],
+      "orcid": null,
+      "checkedAt": "2026-10-21",
+      "verifiedAffiliations": [
+        "hamburg"
+      ],
+      "pastAffiliations": [],
+      "status": "affiliation-verified",
+      "topicVerification": "curated-notion",
+      "sources": [
+        "https://www.bw.uni-hamburg.de/en/arbeitsbereiche/sport-individuum-gesellschaft/personen/wolf-wanja.html"
+      ],
+      "websiteKind": "university-or-lab"
+    }
+  ],
+  "teams": [
+    {
+      "id": "lamb",
+      "name": "Learning and Motivational Beliefs Lab",
+      "teamType": "lab",
+      "memberIds": [
+        "muenks"
+      ],
+      "sourceURLs": [
+        "https://sites.edb.utexas.edu/lamb/"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "official-name-checked",
+      "sourceScope": "官方页面明确命名实验室"
+    },
+    {
+      "id": "mml",
+      "name": "Motivation, Metacognition, and Learning Laboratory",
+      "teamType": "lab",
+      "memberIds": [
+        "miele"
+      ],
+      "sourceURLs": [
+        "https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/david-miele.html"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "name-needs-review",
+      "sourceScope": "相关个人或论文来源已保留；实验室正式名称与成员范围仍待专项核实"
+    },
+    {
+      "id": "zhao-group",
+      "name": "Xin Zhao · 研究者档案",
+      "teamType": "researcher-index",
+      "memberIds": [
+        "zhao"
+      ],
+      "sourceURLs": [
+        "https://www.dep.ecnu.edu.cn/6b/27/c16533a748327/page.htm"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "researcher-index",
+      "sourceScope": "个人官方来源；不是独立实验室"
+    },
+    {
+      "id": "oyserman-group",
+      "name": "Daphna Oyserman · 研究者档案",
+      "teamType": "researcher-index",
+      "memberIds": [
+        "oyserman"
+      ],
+      "sourceURLs": [
+        "https://dornsife.usc.edu/daphna-oyserman/"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "researcher-index",
+      "sourceScope": "个人官方来源；不是独立实验室"
+    },
+    {
+      "id": "job-group",
+      "name": "Motivation Psychology",
+      "teamType": "research-group",
+      "memberIds": [
+        "job"
+      ],
+      "sourceURLs": [
+        "https://mot-psy.univie.ac.at/en/ueber-uns/veronika-job"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "name-needs-review",
+      "sourceScope": "相关个人或论文来源已保留；实验室正式名称与成员范围仍待专项核实"
+    },
+    {
+      "id": "work-play",
+      "name": "Work and Play Lab",
+      "teamType": "lab",
+      "memberIds": [
+        "inzlicht"
+      ],
+      "sourceURLs": [
+        "https://michaelinzlicht.com/research"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "official-name-checked",
+      "sourceScope": "官方页面明确命名实验室"
+    },
+    {
+      "id": "s2d2-network",
+      "name": "de Bruin / Biwer · 合作研究网络",
+      "teamType": "collaboration-network",
+      "memberIds": [
+        "debruin",
+        "biwer"
+      ],
+      "sourceURLs": [
+        "https://doi.org/10.1007/s10648-023-09766-w"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "paper-supported-network",
+      "sourceScope": "支持共同作者关系，不证明正式组织建制"
+    },
+    {
+      "id": "slam",
+      "name": "Science of Learning and Metacognition Lab",
+      "teamType": "lab",
+      "memberIds": [
+        "yan"
+      ],
+      "sourceURLs": [
+        "https://sites.edb.utexas.edu/slam/"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "official-name-checked",
+      "sourceScope": "官方页面明确命名实验室"
+    },
+    {
+      "id": "shenhav-lab",
+      "name": "Shenhav Lab",
+      "teamType": "lab",
+      "memberIds": [
+        "shenhav"
+      ],
+      "sourceURLs": [
+        "https://psychology.berkeley.edu/people/amitai-shenhav"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "official-name-checked",
+      "sourceScope": "官方页面明确命名实验室"
+    },
+    {
+      "id": "westbrook-group",
+      "name": "Andrew Westbrook · 研究者档案",
+      "teamType": "researcher-index",
+      "memberIds": [
+        "westbrook"
+      ],
+      "sourceURLs": [
+        "https://sites.rutgers.edu/cahbir/people/andrew-westbrook/"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "researcher-index",
+      "sourceScope": "个人官方来源；不是独立实验室"
+    },
+    {
+      "id": "geneva-lab",
+      "name": "Geneva Motivation Lab",
+      "teamType": "lab",
+      "memberIds": [
+        "gendolla"
+      ],
+      "sourceURLs": [
+        "https://www.unige.ch/fapse/motivation/"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "name-needs-review",
+      "sourceScope": "相关个人或论文来源已保留；实验室正式名称与成员范围仍待专项核实"
+    },
+    {
+      "id": "wolff-group",
+      "name": "Dynamics of Human Performance Regulation Laboratory",
+      "teamType": "lab",
+      "memberIds": [
+        "wolff"
+      ],
+      "sourceURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/42762705/"
+      ],
+      "checkedAt": "2026-10-21",
+      "membershipScope": "仅列本次种子成员，不是完整成员名单",
+      "identityStatus": "name-needs-review",
+      "sourceScope": "相关个人或论文来源已保留；实验室正式名称与成员范围仍待专项核实"
+    }
+  ],
+  "papers": [
+    {
+      "id": "400a335d-9621-8107-b286-c6125f88d479",
+      "citation": "Muenks & Miele (2017)｜Students’ Thinking About Effort and Ability",
+      "title": "Students’ Thinking About Effort and Ability: The Role of Developmental, Contextual, and Individual Difference Factors",
+      "year": 2017,
+      "originalYear": 2017,
+      "onlineDate": "2017-02-11",
+      "journal": "Review of Educational Research",
+      "authors": [
+        {
+          "given": "Katherine",
+          "family": "Muenks"
+        },
+        {
+          "given": "David B.",
+          "family": "Miele"
+        }
+      ],
+      "doi": "10.3102/0034654316689328",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.3102/0034654316689328",
+        "https://sites.edb.utexas.edu/lamb/pubs/",
+        "https://eric.ed.gov/?id=EJ1147729",
+        "https://api.crossref.org/works/10.3102/0034654316689328"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "findingSummary": null,
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [
+        "muenks",
+        "miele"
+      ],
+      "primaryURL": "https://doi.org/10.3102/0034654316689328",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.3102/0034654316689328",
+            "https://sites.edb.utexas.edu/lamb/pubs/",
+            "https://eric.ed.gov/?id=EJ1147729",
+            "https://api.crossref.org/works/10.3102/0034654316689328"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none"
+    },
+    {
+      "id": "400a335d-9621-8108-933c-c06c8e54f075",
+      "citation": "de Bruin et al. (2023)｜S2D2: Desirable Difficulties",
+      "title": "Worth the Effort: the Start and Stick to Desirable Difficulties (S2D2) Framework",
+      "year": 2023,
+      "originalYear": 2023,
+      "onlineDate": "2023-03-27",
+      "journal": "Educational Psychology Review",
+      "authors": [
+        {
+          "given": "Anique B. H.",
+          "family": "de Bruin"
+        },
+        {
+          "given": "Felicitas",
+          "family": "Biwer"
+        },
+        {
+          "given": "Luotong",
+          "family": "Hui"
+        },
+        {
+          "given": "Erdem",
+          "family": "Onan"
+        },
+        {
+          "given": "Louise",
+          "family": "David"
+        },
+        {
+          "given": "Wisnu",
+          "family": "Wiradhany"
+        }
+      ],
+      "doi": "10.1007/s10648-023-09766-w",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "learning"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1007/s10648-023-09766-w",
+        "https://api.crossref.org/works/10.1007/s10648-023-09766-w"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "努力与有效学习",
+        "Effective Learning"
+      ],
+      "researcherIds": [
+        "debruin",
+        "biwer"
+      ],
+      "primaryURL": "https://doi.org/10.1007/s10648-023-09766-w",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1007/s10648-023-09766-w",
+            "https://api.crossref.org/works/10.1007/s10648-023-09766-w"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8111-a9ce-c91cb9a955f1",
+      "citation": "Winstone et al. (2017)｜Agentic Engagement with Feedback",
+      "title": "Supporting Learners' Agentic Engagement With Feedback: A Systematic Review and a Taxonomy of Recipience Processes",
+      "year": 2017,
+      "originalYear": 2017,
+      "onlineDate": "2016-09-08",
+      "journal": "Educational Psychologist",
+      "authors": [
+        {
+          "given": "Naomi E.",
+          "family": "Winstone"
+        },
+        {
+          "given": "Robert A.",
+          "family": "Nash"
+        },
+        {
+          "given": "Michael",
+          "family": "Parker"
+        },
+        {
+          "given": "James",
+          "family": "Rowntree"
+        }
+      ],
+      "doi": "10.1080/00461520.2016.1207538",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "regulation"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1080/00461520.2016.1207538",
+        "https://api.crossref.org/works/10.1080/00461520.2016.1207538"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "选择与调节",
+        "Choice & Regulation"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1080/00461520.2016.1207538",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1080/00461520.2016.1207538",
+            "https://api.crossref.org/works/10.1080/00461520.2016.1207538"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8113-82c6-d9238dabb2c1",
+      "citation": "Raaijmakers et al. (2017)｜Performance Feedback and Perceived Mental Effort",
+      "title": "Effects of performance feedback valence on perceptions of invested mental effort",
+      "year": 2017,
+      "originalYear": 2017,
+      "onlineDate": null,
+      "journal": "Learning and Instruction",
+      "authors": [
+        {
+          "given": "Steven F.",
+          "family": "Raaijmakers"
+        },
+        {
+          "given": "Martine",
+          "family": "Baars"
+        },
+        {
+          "given": "Lydia",
+          "family": "Schaap"
+        },
+        {
+          "given": "Fred",
+          "family": "Paas"
+        },
+        {
+          "given": "Tamara",
+          "family": "van Gog"
+        }
+      ],
+      "doi": "10.1016/j.learninstruc.2016.12.002",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "learning"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.learninstruc.2016.12.002",
+        "https://api.crossref.org/works/10.1016/j.learninstruc.2016.12.002"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "努力与有效学习",
+        "Effective Learning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1016/j.learninstruc.2016.12.002",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.learninstruc.2016.12.002",
+            "https://api.crossref.org/works/10.1016/j.learninstruc.2016.12.002"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+      "citation": "Zohar & Inzlicht (2026)｜Effort Norms Encourage More Exertion but Not Less",
+      "title": "Effort norms encourage more exertion but not less.",
+      "year": 2026,
+      "originalYear": 2026,
+      "onlineDate": "2026-04",
+      "journal": "Journal of Experimental Psychology: General",
+      "authors": [
+        {
+          "given": "Emily",
+          "family": "Zohar"
+        },
+        {
+          "given": "Michael",
+          "family": "Inzlicht"
+        }
+      ],
+      "doi": "10.1037/xge0001904",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "value"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/xge0001904",
+        "https://api.crossref.org/works/10.1037/xge0001904"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "价值与成本",
+        "Cost & Value"
+      ],
+      "researcherIds": [
+        "inzlicht"
+      ],
+      "primaryURL": "https://doi.org/10.1037/xge0001904",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1037/xge0001904",
+            "https://api.crossref.org/works/10.1037/xge0001904"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8117-aee6-ca2f55be9a60",
+      "citation": "Inzlicht et al. (2018)｜The Effort Paradox",
+      "title": "The Effort Paradox: Effort Is Both Costly and Valued",
+      "year": 2018,
+      "originalYear": 2018,
+      "onlineDate": null,
+      "journal": "Trends in Cognitive Sciences",
+      "authors": [
+        {
+          "given": "Michael",
+          "family": "Inzlicht"
+        },
+        {
+          "given": "Amitai",
+          "family": "Shenhav"
+        },
+        {
+          "given": "Christopher Y.",
+          "family": "Olivola"
+        }
+      ],
+      "doi": "10.1016/j.tics.2018.01.007",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "value"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.tics.2018.01.007",
+        "https://api.crossref.org/works/10.1016/j.tics.2018.01.007"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "价值与成本",
+        "Cost & Value"
+      ],
+      "researcherIds": [
+        "inzlicht",
+        "shenhav"
+      ],
+      "primaryURL": "https://doi.org/10.1016/j.tics.2018.01.007",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.tics.2018.01.007",
+            "https://api.crossref.org/works/10.1016/j.tics.2018.01.007"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8118-8569-e029fa2ee7e4",
+      "citation": "Wang & Sun (2026)｜Chinese Learners’ Theories of Effort, Ability, and Academic Performance",
+      "title": "Chinese learners' theories of effort, ability, and academic performance",
+      "year": 2026,
+      "originalYear": 2026,
+      "onlineDate": "2026-07-03",
+      "journal": "Child Development Perspectives",
+      "authors": [
+        {
+          "given": "Yuhan",
+          "family": "Wang"
+        },
+        {
+          "given": "Xin",
+          "family": "Sun"
+        }
+      ],
+      "doi": "10.1093/cdpers/aadag009",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1093/cdpers/aadag009",
+        "https://api.crossref.org/works/10.1093/cdpers/aadag009"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1093/cdpers/aadag009",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1093/cdpers/aadag009",
+            "https://api.crossref.org/works/10.1093/cdpers/aadag009"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-811a-8d92-c6b7ec822885",
+      "citation": "Amemiya, Heyman, & Walker (2023)｜Persistence and Social Inferences",
+      "title": "Emphasizing others’ persistence can promote unwarranted social inferences in children and adults.",
+      "year": 2023,
+      "originalYear": 2023,
+      "onlineDate": "2023-10",
+      "journal": "Journal of Experimental Psychology: General",
+      "authors": [
+        {
+          "given": "Jamie",
+          "family": "Amemiya"
+        },
+        {
+          "given": "Gail D.",
+          "family": "Heyman"
+        },
+        {
+          "given": "Caren M.",
+          "family": "Walker"
+        }
+      ],
+      "doi": "10.1037/xge0001428",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "待核验",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/xge0001428",
+        "https://api.crossref.org/works/10.1037/xge0001428"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1037/xge0001428",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1037/xge0001428",
+            "https://api.crossref.org/works/10.1037/xge0001428"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8121-b00b-ff13296f1dc9",
+      "citation": "Fralick & Yan (2025)｜Testing the Misinterpreted-Effort Hypothesis",
+      "title": "Testing the misinterpreted effort hypothesis: reframing effort changes perceived effort and its relationship to perceived learning, but does not affect decisions to interleave",
+      "year": 2025,
+      "originalYear": 2025,
+      "onlineDate": "2025-12-11",
+      "journal": "Metacognition and Learning",
+      "authors": [
+        {
+          "given": "Connie M.",
+          "family": "Fralick"
+        },
+        {
+          "given": "Veronica X.",
+          "family": "Yan"
+        }
+      ],
+      "doi": "10.1007/s11409-025-09446-w",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "learning"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1007/s11409-025-09446-w",
+        "https://api.crossref.org/works/10.1007/s11409-025-09446-w"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "努力与有效学习",
+        "Effective Learning"
+      ],
+      "researcherIds": [
+        "yan"
+      ],
+      "primaryURL": "https://doi.org/10.1007/s11409-025-09446-w",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1007/s11409-025-09446-w",
+            "https://api.crossref.org/works/10.1007/s11409-025-09446-w"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8125-96ca-d1bb2b19fa13",
+      "citation": "Zhao & Hu (2026)｜信念与行为的连接",
+      "title": "The belief-behavior link: The relationship between children’s beliefs about constraints on academic achievement and their persistence and challenge-seeking behaviors",
+      "year": 2026,
+      "originalYear": 2026,
+      "onlineDate": null,
+      "journal": "Journal of Experimental Child Psychology",
+      "authors": [
+        {
+          "given": "Xin",
+          "family": "Zhao"
+        },
+        {
+          "given": "Ying",
+          "family": "Hu"
+        }
+      ],
+      "doi": "10.1016/j.jecp.2025.106431",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "相关/纵向",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.jecp.2025.106431",
+        "https://api.crossref.org/works/10.1016/j.jecp.2025.106431"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [
+        "zhao"
+      ],
+      "primaryURL": "https://doi.org/10.1016/j.jecp.2025.106431",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.jecp.2025.106431",
+            "https://api.crossref.org/works/10.1016/j.jecp.2025.106431"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8131-9558-f6a1973f8f03",
+      "citation": "Miele, Son, & Metcalfe (2013)｜加工努力与元认知判断（题录待核）",
+      "title": "Children's Naive Theories of Intelligence Influence Their Metacognitive Judgments",
+      "year": 2013,
+      "originalYear": 2013,
+      "onlineDate": "2013-11-11",
+      "journal": "Child Development",
+      "authors": [
+        {
+          "given": "David B",
+          "family": "Miele"
+        },
+        {
+          "given": "Lisa K",
+          "family": "Son"
+        },
+        {
+          "given": "Janet",
+          "family": "Metcalfe"
+        }
+      ],
+      "doi": "10.1111/cdev.12101",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "learning"
+      ],
+      "evidenceType": "概念/方法",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1111/cdev.12101",
+        "https://api.crossref.org/works/10.1111/cdev.12101"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "努力与有效学习",
+        "Effective Learning"
+      ],
+      "researcherIds": [
+        "miele"
+      ],
+      "primaryURL": "https://doi.org/10.1111/cdev.12101",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1111/cdev.12101",
+            "https://api.crossref.org/works/10.1111/cdev.12101"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null,
+      "resolutionNote": "由作者组合、年份及主题，结合出版社题录匹配；保留原始 citation 供追溯。"
+    },
+    {
+      "id": "400a335d-9621-813b-9205-c9f84f717f53",
+      "citation": "Kroeper, Fried, & Murphy (2022)｜Towards Fostering Growth Mindset Classrooms",
+      "title": "Towards fostering growth mindset classrooms: identifying teaching behaviors that signal instructors’ fixed and growth mindsets beliefs to students",
+      "year": 2022,
+      "originalYear": 2022,
+      "onlineDate": "2022-04-11",
+      "journal": "Social Psychology of Education",
+      "authors": [
+        {
+          "given": "Kathryn M.",
+          "family": "Kroeper"
+        },
+        {
+          "given": "Audrey C.",
+          "family": "Fried"
+        },
+        {
+          "given": "Mary C.",
+          "family": "Murphy"
+        }
+      ],
+      "doi": "10.1007/s11218-022-09689-4",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "概念/方法",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1007/s11218-022-09689-4",
+        "https://api.crossref.org/works/10.1007/s11218-022-09689-4"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1007/s11218-022-09689-4",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1007/s11218-022-09689-4",
+            "https://api.crossref.org/works/10.1007/s11218-022-09689-4"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-813e-bebe-da2016047e06",
+      "citation": "Shenhav, Botvinick, & Cohen (2013)｜Expected Value of Control",
+      "title": "The Expected Value of Control: An Integrative Theory of Anterior Cingulate Cortex Function",
+      "year": 2013,
+      "originalYear": 2013,
+      "onlineDate": null,
+      "journal": "Neuron",
+      "authors": [
+        {
+          "given": "Amitai",
+          "family": "Shenhav"
+        },
+        {
+          "given": "Matthew M.",
+          "family": "Botvinick"
+        },
+        {
+          "given": "Jonathan D.",
+          "family": "Cohen"
+        }
+      ],
+      "doi": "10.1016/j.neuron.2013.07.007",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "mechanisms"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.neuron.2013.07.007",
+        "https://api.crossref.org/works/10.1016/j.neuron.2013.07.007"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "认知与生理机制",
+        "Cognitive & Physiological Mechanisms"
+      ],
+      "researcherIds": [
+        "shenhav"
+      ],
+      "primaryURL": "https://doi.org/10.1016/j.neuron.2013.07.007",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.neuron.2013.07.007",
+            "https://api.crossref.org/works/10.1016/j.neuron.2013.07.007"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8141-89ee-c7f8e05bd23b",
+      "citation": "Zhao et al. (2022)｜Overheard Evaluative Comments",
+      "title": "Overheard evaluative comments: Implications for beliefs about effort and ability",
+      "year": 2022,
+      "originalYear": 2022,
+      "onlineDate": "2022-11-03",
+      "journal": "Child Development",
+      "authors": [
+        {
+          "given": "Li",
+          "family": "Zhao"
+        },
+        {
+          "given": "Yingying",
+          "family": "Li"
+        },
+        {
+          "given": "Wen",
+          "family": "Qin"
+        },
+        {
+          "given": "Jamie",
+          "family": "Amemiya"
+        },
+        {
+          "given": "Fang",
+          "family": "Fang"
+        },
+        {
+          "given": "Brian J",
+          "family": "Compton"
+        },
+        {
+          "given": "Gail D",
+          "family": "Heyman"
+        }
+      ],
+      "doi": "10.1111/cdev.13829",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1111/cdev.13829",
+        "https://api.crossref.org/works/10.1111/cdev.13829"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1111/cdev.13829",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1111/cdev.13829",
+            "https://api.crossref.org/works/10.1111/cdev.13829"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8141-bcf9-f8e67caee12f",
+      "citation": "Tolsá-Caballero & Tsay (2026)｜Experts’ Effort Attributions and Performance",
+      "title": "Attributing experts' achievements to effort rather than to natural ability leads to better performance.",
+      "year": 2026,
+      "originalYear": 2026,
+      "onlineDate": "2026-06",
+      "journal": "Journal of Experimental Psychology: General",
+      "authors": [
+        {
+          "given": "Nuria",
+          "family": "Tolsá-Caballero"
+        },
+        {
+          "given": "Chia-Jung",
+          "family": "Tsay"
+        }
+      ],
+      "doi": "10.1037/xge0001916",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/xge0001916",
+        "https://api.crossref.org/works/10.1037/xge0001916"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1037/xge0001916",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1037/xge0001916",
+            "https://api.crossref.org/works/10.1037/xge0001916"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8147-816c-cd739b5d6ec1",
+      "citation": "Kirk-Johnson, Galla, & Fraundorf (2019)｜Perceiving Effort as Poor Learning",
+      "title": "Perceiving effort as poor learning: The misinterpreted-effort hypothesis of how experienced effort and perceived learning relate to study strategy choice",
+      "year": 2019,
+      "originalYear": 2019,
+      "onlineDate": null,
+      "journal": "Cognitive Psychology",
+      "authors": [
+        {
+          "given": "Afton",
+          "family": "Kirk-Johnson"
+        },
+        {
+          "given": "Brian M.",
+          "family": "Galla"
+        },
+        {
+          "given": "Scott H.",
+          "family": "Fraundorf"
+        }
+      ],
+      "doi": "10.1016/j.cogpsych.2019.101237",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "learning"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.cogpsych.2019.101237",
+        "https://api.crossref.org/works/10.1016/j.cogpsych.2019.101237"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "努力与有效学习",
+        "Effective Learning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1016/j.cogpsych.2019.101237",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.cogpsych.2019.101237",
+            "https://api.crossref.org/works/10.1016/j.cogpsych.2019.101237"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8153-b96f-c52e4b415761",
+      "citation": "Wolff et al. (2026)｜Effort-Performance Decoupling",
+      "title": "When effort fails: Instances and reasons for effort-performance decoupling",
+      "year": 2026,
+      "originalYear": 2026,
+      "onlineDate": "2026-09-19",
+      "journal": "Neuroscience & Biobehavioral Reviews",
+      "authors": [
+        {
+          "given": "Wanja",
+          "family": "Wolff"
+        },
+        {
+          "given": "Amitai",
+          "family": "Shenhav"
+        }
+      ],
+      "doi": "10.1016/j.neubiorev.2026.106978",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "mechanisms"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.neubiorev.2026.106978",
+        "https://pubmed.ncbi.nlm.nih.gov/42762705/"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "authorsPartial": true,
+      "keywords": [
+        "认知与生理机制",
+        "Cognitive & Physiological Mechanisms"
+      ],
+      "researcherIds": [
+        "shenhav",
+        "wolff"
+      ],
+      "primaryURL": "https://doi.org/10.1016/j.neubiorev.2026.106978",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.neubiorev.2026.106978",
+            "https://pubmed.ncbi.nlm.nih.gov/42762705/"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8157-a217-ff0c6ad325af",
+      "citation": "Henderlong & Lepper (2002)｜Effects of Praise on Intrinsic Motivation",
+      "title": "The effects of praise on children's intrinsic motivation: A review and synthesis.",
+      "year": 2002,
+      "originalYear": 2002,
+      "onlineDate": "2002",
+      "journal": "Psychological Bulletin",
+      "authors": [
+        {
+          "given": "Jennifer",
+          "family": "Henderlong"
+        },
+        {
+          "given": "Mark R.",
+          "family": "Lepper"
+        }
+      ],
+      "doi": "10.1037/0033-2909.128.5.774",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/0033-2909.128.5.774",
+        "https://api.crossref.org/works/10.1037/0033-2909.128.5.774"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1037/0033-2909.128.5.774",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1037/0033-2909.128.5.774",
+            "https://api.crossref.org/works/10.1037/0033-2909.128.5.774"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8161-9dc9-f14c73d96c51",
+      "citation": "Koriat & Nussinson (2009)｜Attributing Study Effort to Data-Driven and Goal-Driven Effects",
+      "title": "Attributing study effort to data-driven and goal-driven effects: Implications for metacognitive judgments.",
+      "year": 2009,
+      "originalYear": 2009,
+      "onlineDate": "2009",
+      "journal": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+      "authors": [
+        {
+          "given": "Asher",
+          "family": "Koriat"
+        },
+        {
+          "given": "Ravit",
+          "family": "Nussinson"
+        }
+      ],
+      "doi": "10.1037/a0016374",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "learning"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/a0016374",
+        "https://api.crossref.org/works/10.1037/a0016374"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "努力与有效学习",
+        "Effective Learning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1037/a0016374",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1037/a0016374",
+            "https://api.crossref.org/works/10.1037/a0016374"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8164-8aa2-f046b9f897fe",
+      "citation": "Nicholls (1978)｜努力与能力推理的早期研究（题录待核）",
+      "title": "努力与能力推理的早期研究（题录待核）",
+      "year": 1978,
+      "originalYear": 1978,
+      "onlineDate": null,
+      "journal": null,
+      "authors": [],
+      "doi": null,
+      "unverifiedDOI": null,
+      "publicationType": "unknown",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "pending",
+      "sourceURLs": [],
+      "checkedAt": null,
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": null,
+      "review": {
+        "bibliographic": {
+          "status": "pending",
+          "checkedAt": null,
+          "sourceURLs": []
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null,
+      "resolutionNote": "原始记录仅有概括性题名；未确认唯一对应论文，不匹配推测 DOI。"
+    },
+    {
+      "id": "400a335d-9621-8171-853e-fe64241ddad6",
+      "citation": "Job, Dweck, & Walton (2010)｜Implicit Theories About Willpower",
+      "title": "Ego Depletion—Is It All in Your Head?",
+      "year": 2010,
+      "originalYear": 2010,
+      "onlineDate": "2010-09-28",
+      "journal": "Psychological Science",
+      "authors": [
+        {
+          "given": "Veronika",
+          "family": "Job"
+        },
+        {
+          "given": "Carol S.",
+          "family": "Dweck"
+        },
+        {
+          "given": "Gregory M.",
+          "family": "Walton"
+        }
+      ],
+      "doi": "10.1177/0956797610384745",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1177/0956797610384745",
+        "https://api.crossref.org/works/10.1177/0956797610384745"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [
+        "job"
+      ],
+      "primaryURL": "https://doi.org/10.1177/0956797610384745",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1177/0956797610384745",
+            "https://api.crossref.org/works/10.1177/0956797610384745"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-817d-b2c2-ebe2a265fee9",
+      "citation": "Ma et al. (2025)｜Overheard Evaluative Comments Can Affect Young Children’s Effort",
+      "title": "Overheard evaluative comments can affect young children’s effort.",
+      "year": 2025,
+      "originalYear": 2025,
+      "onlineDate": "2025-09",
+      "journal": "Journal of Experimental Psychology: General",
+      "authors": [
+        {
+          "given": "Fengling",
+          "family": "Ma"
+        },
+        {
+          "given": "Linghui",
+          "family": "Tang"
+        },
+        {
+          "given": "Yutong",
+          "family": "Jiang"
+        },
+        {
+          "given": "Xianming",
+          "family": "Luo"
+        },
+        {
+          "given": "Brian J.",
+          "family": "Compton"
+        },
+        {
+          "given": "Gail D.",
+          "family": "Heyman"
+        }
+      ],
+      "doi": "10.1037/xge0001785",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "regulation"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/xge0001785",
+        "https://api.crossref.org/works/10.1037/xge0001785"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "选择与调节",
+        "Choice & Regulation"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1037/xge0001785",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1037/xge0001785",
+            "https://api.crossref.org/works/10.1037/xge0001785"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-817d-be77-fea28b371f52",
+      "citation": "Miele & Molden (2010)｜Processing Fluency in Perceived Comprehension",
+      "title": "Naive theories of intelligence and the role of processing fluency in perceived comprehension.",
+      "year": 2010,
+      "originalYear": 2010,
+      "onlineDate": "2010",
+      "journal": "Journal of Experimental Psychology: General",
+      "authors": [
+        {
+          "given": "David B.",
+          "family": "Miele"
+        },
+        {
+          "given": "Daniel C.",
+          "family": "Molden"
+        }
+      ],
+      "doi": "10.1037/a0019745",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/a0019745",
+        "https://api.crossref.org/works/10.1037/a0019745"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [
+        "miele"
+      ],
+      "primaryURL": "https://doi.org/10.1037/a0019745",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1037/a0019745",
+            "https://api.crossref.org/works/10.1037/a0019745"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-8194-80e1-ea4f75ff707c",
+      "citation": "Debatin, Stoeger, & Ziegler (2027)｜Effort and Ability Self-Concept",
+      "title": "The underestimated role of effort in ability self-concept formation: Preliminary evidence for another major comparison process",
+      "year": 2027,
+      "originalYear": 2027,
+      "onlineDate": null,
+      "journal": "Learning and Instruction",
+      "authors": [
+        {
+          "given": "Tobias",
+          "family": "Debatin"
+        },
+        {
+          "given": "Heidrun",
+          "family": "Stoeger"
+        },
+        {
+          "given": "Albert",
+          "family": "Ziegler"
+        }
+      ],
+      "doi": "10.1016/j.learninstruc.2026.102471",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "相关/纵向",
+      "method": "横断研究 / 结构方程模型",
+      "population": "德国九年级学生，N=448",
+      "outcomes": "STEM 与语言领域能力自我概念",
+      "limitations": "横断数据不能支持因果结论；主动投入努力与任务要求引发努力是不同构念。",
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.learninstruc.2026.102471",
+        "https://www.sciencedirect.com/science/article/pii/S0959475226001568",
+        "https://api.crossref.org/works/10.1016/j.learninstruc.2026.102471"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "findingSummary": "控制学业成绩后，任务要求引发的努力需求与同领域能力自我概念呈负向关系。",
+      "dateNote": "出版页卷期为 2027 年 2 月；在线日级日期尚未核定，不自动生成未来事件。",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1016/j.learninstruc.2026.102471",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.learninstruc.2026.102471",
+            "https://www.sciencedirect.com/science/article/pii/S0959475226001568",
+            "https://api.crossref.org/works/10.1016/j.learninstruc.2026.102471"
+          ]
+        },
+        "abstract": {
+          "status": "checked",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.learninstruc.2026.102471",
+            "https://www.sciencedirect.com/science/article/pii/S0959475226001568"
+          ]
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": "任务要求引发的努力需求与能力自我概念如何关联？",
+      "questionStatus": "abstract-based",
+      "summaryBasis": "abstract"
+    },
+    {
+      "id": "400a335d-9621-8199-b672-c2818a2c6682",
+      "citation": "Marsh et al. (2016)｜Double-Edged Sword of Effort",
+      "title": "Breaking the double-edged sword of effort/trying hard: Developmental equilibrium and longitudinal relations among effort, achievement, and academic self-concept.",
+      "year": 2016,
+      "originalYear": 2016,
+      "onlineDate": "2016-08",
+      "journal": "Developmental Psychology",
+      "authors": [
+        {
+          "given": "Herbert W.",
+          "family": "Marsh"
+        },
+        {
+          "given": "Reinhard",
+          "family": "Pekrun"
+        },
+        {
+          "given": "Stephanie",
+          "family": "Lichtenfeld"
+        },
+        {
+          "given": "Jiesi",
+          "family": "Guo"
+        },
+        {
+          "given": "A. Katrin",
+          "family": "Arens"
+        },
+        {
+          "given": "Kou",
+          "family": "Murayama"
+        }
+      ],
+      "doi": "10.1037/dev0000146",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "相关/纵向",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/dev0000146",
+        "https://api.crossref.org/works/10.1037/dev0000146"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1037/dev0000146",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1037/dev0000146",
+            "https://api.crossref.org/works/10.1037/dev0000146"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-81a0-a655-cb2d8a7d235d",
+      "citation": "Lam, Yim, & Ng (2008)｜Is effort praise motivational?",
+      "title": "Is effort praise motivational? The role of beliefs in the effort–ability relationship",
+      "year": 2008,
+      "originalYear": 2008,
+      "onlineDate": null,
+      "journal": "Contemporary Educational Psychology",
+      "authors": [
+        {
+          "given": "Shui-fong",
+          "family": "Lam"
+        },
+        {
+          "given": "Pui-shan",
+          "family": "Yim"
+        },
+        {
+          "given": "Yee-lam",
+          "family": "Ng"
+        }
+      ],
+      "doi": "10.1016/j.cedpsych.2008.01.005",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.cedpsych.2008.01.005",
+        "https://api.crossref.org/works/10.1016/j.cedpsych.2008.01.005"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1016/j.cedpsych.2008.01.005",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.cedpsych.2008.01.005",
+            "https://api.crossref.org/works/10.1016/j.cedpsych.2008.01.005"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-81b2-97b8-e1f40dc1fa63",
+      "citation": "Nicholls (1984)｜目标卷入与能力判断理论（题录待核）",
+      "title": "目标卷入与能力判断理论（题录待核）",
+      "year": 1984,
+      "originalYear": 1984,
+      "onlineDate": null,
+      "journal": null,
+      "authors": [],
+      "doi": null,
+      "unverifiedDOI": null,
+      "publicationType": "unknown",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "pending",
+      "sourceURLs": [],
+      "checkedAt": null,
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": null,
+      "review": {
+        "bibliographic": {
+          "status": "pending",
+          "checkedAt": null,
+          "sourceURLs": []
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null,
+      "resolutionNote": "原始记录仅有概括性题名；未确认唯一对应论文，不匹配推测 DOI。"
+    },
+    {
+      "id": "400a335d-9621-81b2-bbae-f43812d46c31",
+      "citation": "Duckworth et al. (2019)｜Self-Control and Academic Achievement",
+      "title": "Self-Control and Academic Achievement",
+      "year": 2019,
+      "originalYear": 2019,
+      "onlineDate": null,
+      "journal": "Annual Review of Psychology",
+      "authors": [
+        {
+          "given": "Angela L.",
+          "family": "Duckworth"
+        },
+        {
+          "given": "Jamie L.",
+          "family": "Taxer"
+        },
+        {
+          "given": "Lauren",
+          "family": "Eskreis-Winkler"
+        },
+        {
+          "given": "Brian M.",
+          "family": "Galla"
+        },
+        {
+          "given": "James J.",
+          "family": "Gross"
+        }
+      ],
+      "doi": "10.1146/annurev-psych-010418-103230",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "regulation"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1146/annurev-psych-010418-103230",
+        "https://api.crossref.org/works/10.1146/annurev-psych-010418-103230"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "选择与调节",
+        "Choice & Regulation"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1146/annurev-psych-010418-103230",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1146/annurev-psych-010418-103230",
+            "https://api.crossref.org/works/10.1146/annurev-psych-010418-103230"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-81c4-b315-d12447f11234",
+      "citation": "Lin et al. (2024)｜An experimental manipulation of the value of effort",
+      "title": "An experimental manipulation of the value of effort",
+      "year": 2024,
+      "originalYear": 2024,
+      "onlineDate": "2024-03-04",
+      "journal": "Nature Human Behaviour",
+      "authors": [
+        {
+          "given": "Hause",
+          "family": "Lin"
+        },
+        {
+          "given": "Andrew",
+          "family": "Westbrook"
+        },
+        {
+          "given": "Frank",
+          "family": "Fan"
+        },
+        {
+          "given": "Michael",
+          "family": "Inzlicht"
+        }
+      ],
+      "doi": "10.1038/s41562-024-01842-7",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "value"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1038/s41562-024-01842-7",
+        "https://api.crossref.org/works/10.1038/s41562-024-01842-7"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "价值与成本",
+        "Cost & Value"
+      ],
+      "researcherIds": [
+        "inzlicht",
+        "westbrook"
+      ],
+      "primaryURL": "https://doi.org/10.1038/s41562-024-01842-7",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1038/s41562-024-01842-7",
+            "https://api.crossref.org/works/10.1038/s41562-024-01842-7"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-81cb-ac8b-f0ae921ba417",
+      "citation": "Mlynski et al. (2026)｜Because It Is Fun! Effort Enjoyment Belief",
+      "title": "Because it is fun! Individual differences in effort enjoyment belief relate to behavioral and physiological indicators of effort-seeking.",
+      "year": 2026,
+      "originalYear": 2026,
+      "onlineDate": "2025-03-03",
+      "journal": "Journal of Personality and Social Psychology",
+      "authors": [
+        {
+          "given": "Christopher",
+          "family": "Mlynski"
+        },
+        {
+          "given": "Georgia",
+          "family": "Clay"
+        },
+        {
+          "given": "Kata",
+          "family": "Sik"
+        },
+        {
+          "given": "Julia",
+          "family": "Jankowski"
+        },
+        {
+          "given": "Veronika",
+          "family": "Job"
+        }
+      ],
+      "doi": "10.1037/pspa0000443",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "value"
+      ],
+      "evidenceType": "实验/干预",
+      "method": "多研究：测量与实验操纵",
+      "population": "五项研究，合计 N=2338",
+      "outcomes": "难度选择、心血管努力指标、学业指标",
+      "limitations": "摘要层核对；测量与操纵证据需分别解读，不能直接推断长期学习收益。",
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/pspa0000443",
+        "https://pubmed.ncbi.nlm.nih.gov/40029322/",
+        "https://api.crossref.org/works/10.1037/pspa0000443"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "registeredOnlineDate": "2026-02",
+      "dateNote": "Crossref 登记为 2026-02；PubMed 明确标注 Epub 2025-03-03，优先采用该在线日期，卷期年份仍为 2026。",
+      "findingSummary": "努力享受信念与任务难度选择及部分生理努力指标有关。",
+      "keywords": [
+        "价值与成本",
+        "Cost & Value"
+      ],
+      "researcherIds": [
+        "job"
+      ],
+      "primaryURL": "https://doi.org/10.1037/pspa0000443",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1037/pspa0000443",
+            "https://pubmed.ncbi.nlm.nih.gov/40029322/",
+            "https://api.crossref.org/works/10.1037/pspa0000443"
+          ]
+        },
+        "abstract": {
+          "status": "checked",
+          "sourceURLs": [
+            "https://doi.org/10.1037/pspa0000443",
+            "https://pubmed.ncbi.nlm.nih.gov/40029322/"
+          ]
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": "努力享受信念如何关联行为和生理层面的努力投入？",
+      "questionStatus": "abstract-based",
+      "summaryBasis": "abstract"
+    },
+    {
+      "id": "400a335d-9621-81d1-83b8-dd9cc81d781f",
+      "citation": "Kroeper et al. (2022)｜Behaviors Communicating Instructor Mindset",
+      "title": "An exploratory study of the behaviors that communicate perceived instructor mindset beliefs in college STEM classrooms",
+      "year": 2022,
+      "originalYear": 2022,
+      "onlineDate": null,
+      "journal": "Teaching and Teacher Education",
+      "authors": [
+        {
+          "given": "Kathryn M.",
+          "family": "Kroeper"
+        },
+        {
+          "given": "Katherine",
+          "family": "Muenks"
+        },
+        {
+          "given": "Elizabeth A.",
+          "family": "Canning"
+        },
+        {
+          "given": "Mary C.",
+          "family": "Murphy"
+        }
+      ],
+      "doi": "10.1016/j.tate.2022.103717",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "相关/纵向",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.tate.2022.103717",
+        "https://api.crossref.org/works/10.1016/j.tate.2022.103717"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [
+        "muenks"
+      ],
+      "primaryURL": "https://doi.org/10.1016/j.tate.2022.103717",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1016/j.tate.2022.103717",
+            "https://api.crossref.org/works/10.1016/j.tate.2022.103717"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-81e4-b807-c4a641f65f9b",
+      "citation": "Muenks, Miele, & Wigfield (2016)｜Source of Effort and Ability Evaluations",
+      "title": "How students’ perceptions of the source of effort influence their ability evaluations of other students",
+      "year": 2016,
+      "originalYear": 2016,
+      "onlineDate": null,
+      "journal": "Journal of Educational Psychology",
+      "authors": [
+        {
+          "given": "Katherine",
+          "family": "Muenks"
+        },
+        {
+          "given": "David B.",
+          "family": "Miele"
+        },
+        {
+          "given": "Allan",
+          "family": "Wigfield"
+        }
+      ],
+      "doi": "10.1037/edu0000068",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/edu0000068",
+        "https://sites.edb.utexas.edu/lamb/pubs/"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [
+        "muenks",
+        "miele"
+      ],
+      "primaryURL": "https://doi.org/10.1037/edu0000068",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1037/edu0000068",
+            "https://sites.edb.utexas.edu/lamb/pubs/"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-81e6-a319-ebf5b6c8fd80",
+      "citation": "Kool et al. (2010)｜Decision Making and Avoidance of Cognitive Demand",
+      "title": "Decision making and the avoidance of cognitive demand.",
+      "year": 2010,
+      "originalYear": 2010,
+      "onlineDate": "2010",
+      "journal": "Journal of Experimental Psychology: General",
+      "authors": [
+        {
+          "given": "Wouter",
+          "family": "Kool"
+        },
+        {
+          "given": "Joseph T.",
+          "family": "McGuire"
+        },
+        {
+          "given": "Zev B.",
+          "family": "Rosen"
+        },
+        {
+          "given": "Matthew M.",
+          "family": "Botvinick"
+        }
+      ],
+      "doi": "10.1037/a0020198",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "mechanisms"
+      ],
+      "evidenceType": "实验/干预",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/a0020198",
+        "https://api.crossref.org/works/10.1037/a0020198"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "认知与生理机制",
+        "Cognitive & Physiological Mechanisms"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1037/a0020198",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1037/a0020198",
+            "https://api.crossref.org/works/10.1037/a0020198"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-81ef-891f-e538bffc1ad6",
+      "citation": "Miele et al. (2020)｜Individual Differences in Effort Source Beliefs",
+      "title": "Individual differences in students’ effort source beliefs predict their judgments of ability.",
+      "year": 2020,
+      "originalYear": 2020,
+      "onlineDate": "2020-06",
+      "journal": "Motivation Science",
+      "authors": [
+        {
+          "given": "David B.",
+          "family": "Miele"
+        },
+        {
+          "given": "Alexander S.",
+          "family": "Browman"
+        },
+        {
+          "given": "Marina",
+          "family": "Vasilyeva"
+        }
+      ],
+      "doi": "10.1037/mot0000124",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "待核验",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/mot0000124",
+        "https://api.crossref.org/works/10.1037/mot0000124"
+      ],
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [
+        "miele"
+      ],
+      "primaryURL": "https://doi.org/10.1037/mot0000124",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1037/mot0000124",
+            "https://api.crossref.org/works/10.1037/mot0000124"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "400a335d-9621-81fb-a8cc-d725b596738c",
+      "citation": "Amemiya & Wang (2018)｜Why Effort Praise Can Backfire in Adolescence",
+      "title": "Why Effort Praise Can Backfire in Adolescence",
+      "year": 2018,
+      "originalYear": 2018,
+      "onlineDate": "2018-08-03",
+      "journal": "Child Development Perspectives",
+      "authors": [
+        {
+          "given": "Jamie",
+          "family": "Amemiya"
+        },
+        {
+          "given": "Ming-Te",
+          "family": "Wang"
+        }
+      ],
+      "doi": "10.1111/cdep.12284",
+      "unverifiedDOI": null,
+      "publicationType": "journal-article",
+      "themes": [
+        "beliefs"
+      ],
+      "evidenceType": "理论/综述",
+      "method": null,
+      "population": null,
+      "outcomes": null,
+      "limitations": null,
+      "verification": "metadata-verified",
+      "sourceURLs": [
+        "https://doi.org/10.1111/cdep.12284",
+        "https://api.crossref.org/works/10.1111/cdep.12284"
+      ],
+      "checkedAt": "2026-10-21",
+      "importedAt": "2026-10-21",
+      "keywords": [
+        "信念与意义",
+        "Beliefs & Meaning"
+      ],
+      "researcherIds": [],
+      "primaryURL": "https://doi.org/10.1111/cdep.12284",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-21",
+          "sourceURLs": [
+            "https://doi.org/10.1111/cdep.12284",
+            "https://api.crossref.org/works/10.1111/cdep.12284"
+          ]
+        },
+        "abstract": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "researchQuestion": null,
+      "questionStatus": "pending",
+      "summaryBasis": "none",
+      "findingSummary": null
+    },
+    {
+      "id": "celniker-2023-moralization",
+      "title": "The moralization of effort",
+      "citation": "Celniker et al. (2023)｜The moralization of effort",
+      "year": 2023,
+      "onlineDate": "2022-07-28",
+      "journal": "Journal of Experimental Psychology: General",
+      "doi": "10.1037/xge0001259",
+      "pmid": "35901413",
+      "authors": [
+        {
+          "given": "Jared B",
+          "family": "Celniker"
+        },
+        {
+          "given": "Andrew",
+          "family": "Gregory"
+        },
+        {
+          "given": "Hyunjin J",
+          "family": "Koo"
+        },
+        {
+          "given": "Paul K",
+          "family": "Piff"
+        },
+        {
+          "given": "Peter H",
+          "family": "Ditto"
+        },
+        {
+          "given": "Azim F",
+          "family": "Shariff"
+        }
+      ],
+      "researchQuestion": "努力是否被当作道德品格信号，即使没有增加产出？",
+      "method": "多研究；具体设计和操纵细节待全文核读",
+      "population": "摘要报告八项研究，合计 N=5502",
+      "outcomes": "道德品格判断、报酬、捐赠及合作伙伴选择",
+      "findingSummary": "摘要报告：展示努力会提升道德评价；部分情境中，即使努力不增加产出，也会获得奖励。",
+      "limitations": "摘要层核查；情境、文化和具体操纵边界尚未全文审计。对他人的道德评价不证明其真实品格。",
+      "primaryURL": "https://doi.org/10.1037/xge0001259",
+      "sourceURLs": [
+        "https://doi.org/10.1037/xge0001259",
+        "https://pubmed.ncbi.nlm.nih.gov/35901413/"
+      ],
+      "originalYear": 2023,
+      "publicationType": "journal-article",
+      "verification": "metadata-verified",
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-22",
+      "themes": [
+        "value",
+        "beliefs"
+      ],
+      "topics": [
+        "moral-value"
+      ],
+      "researcherIds": [],
+      "keywords": [
+        "道德价值",
+        "努力道德化",
+        "道德品格",
+        "美德",
+        "effort moralization",
+        "moral character"
+      ],
+      "evidenceType": "多研究（摘要核查）",
+      "questionStatus": "abstract-based",
+      "summaryBasis": "abstract",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1037/xge0001259",
+            "https://pubmed.ncbi.nlm.nih.gov/35901413/"
+          ]
+        },
+        "abstract": {
+          "status": "checked",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://pubmed.ncbi.nlm.nih.gov/35901413/"
+          ]
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "dateNote": "卷期年份与在线日期分别依 PubMed 记录；不可将在线年与卷期年混用。",
+      "provenanceNote": "用户指出缺失后新增的公开题录，不来自原35条种子；作者当前机构尚未核对，不新增机构点位或团队。"
+    },
+    {
+      "id": "berry-lucas-2024-prosocial-effort",
+      "title": "How Much Is Enough? The Relationship Between Prosocial Effort and Moral Character Judgments",
+      "citation": "Berry & Lucas (2024)｜How Much Is Enough?",
+      "year": 2024,
+      "onlineDate": "2022-12-28",
+      "journal": "Personality and Social Psychology Bulletin",
+      "doi": "10.1177/01461672221135954",
+      "pmid": "36575959",
+      "authors": [
+        {
+          "given": "Zachariah",
+          "family": "Berry"
+        },
+        {
+          "given": "Brian J",
+          "family": "Lucas"
+        }
+      ],
+      "researchQuestion": "亲社会努力增加时，道德品格评价是否一直上升？",
+      "method": "多研究；具体设计及统计模型待全文核读",
+      "population": "摘要报告四项研究，合计 N=1658",
+      "outcomes": "道德品格评价与描述性、规定性规范",
+      "findingSummary": "摘要报告：评价随亲社会努力增加而上升，随后趋于平台；规范被提出为部分解释。",
+      "limitations": "摘要层核查；不能推论所有情境中努力越多越道德，也未复核平台形态和机制分析。",
+      "primaryURL": "https://doi.org/10.1177/01461672221135954",
+      "sourceURLs": [
+        "https://doi.org/10.1177/01461672221135954",
+        "https://pubmed.ncbi.nlm.nih.gov/36575959/"
+      ],
+      "originalYear": 2024,
+      "publicationType": "journal-article",
+      "verification": "metadata-verified",
+      "checkedAt": "2026-10-22",
+      "importedAt": "2026-10-22",
+      "themes": [
+        "value",
+        "beliefs"
+      ],
+      "topics": [
+        "moral-value"
+      ],
+      "researcherIds": [],
+      "keywords": [
+        "道德价值",
+        "努力道德化",
+        "道德品格",
+        "美德",
+        "effort moralization",
+        "moral character"
+      ],
+      "evidenceType": "多研究（摘要核查）",
+      "questionStatus": "abstract-based",
+      "summaryBasis": "abstract",
+      "review": {
+        "bibliographic": {
+          "status": "verified",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://doi.org/10.1177/01461672221135954",
+            "https://pubmed.ncbi.nlm.nih.gov/36575959/"
+          ]
+        },
+        "abstract": {
+          "status": "checked",
+          "checkedAt": "2026-10-22",
+          "sourceURLs": [
+            "https://pubmed.ncbi.nlm.nih.gov/36575959/"
+          ]
+        },
+        "fullText": {
+          "status": "not-reviewed",
+          "sourceURLs": []
+        }
+      },
+      "dateNote": "卷期年份与在线日期分别依 PubMed 记录；不可将在线年与卷期年混用。",
+      "provenanceNote": "用户指出缺失后新增的公开题录，不来自原35条种子；作者当前机构尚未核对，不新增机构点位或团队。"
+    }
+  ],
+  "relations": [
+    {
+      "id": "muenks-beliefs",
+      "from": "muenks",
+      "to": "beliefs",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "muenks-learning",
+      "from": "muenks",
+      "to": "learning",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "miele-beliefs",
+      "from": "miele",
+      "to": "beliefs",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "miele-regulation",
+      "from": "miele",
+      "to": "regulation",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "zhao-beliefs",
+      "from": "zhao",
+      "to": "beliefs",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "zhao-regulation",
+      "from": "zhao",
+      "to": "regulation",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "oyserman-beliefs",
+      "from": "oyserman",
+      "to": "beliefs",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "job-beliefs",
+      "from": "job",
+      "to": "beliefs",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "job-value",
+      "from": "job",
+      "to": "value",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "inzlicht-value",
+      "from": "inzlicht",
+      "to": "value",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "inzlicht-regulation",
+      "from": "inzlicht",
+      "to": "regulation",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "debruin-learning",
+      "from": "debruin",
+      "to": "learning",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "debruin-regulation",
+      "from": "debruin",
+      "to": "regulation",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "biwer-learning",
+      "from": "biwer",
+      "to": "learning",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "yan-learning",
+      "from": "yan",
+      "to": "learning",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "yan-beliefs",
+      "from": "yan",
+      "to": "beliefs",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "shenhav-mechanisms",
+      "from": "shenhav",
+      "to": "mechanisms",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "shenhav-regulation",
+      "from": "shenhav",
+      "to": "regulation",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "westbrook-mechanisms",
+      "from": "westbrook",
+      "to": "mechanisms",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "westbrook-value",
+      "from": "westbrook",
+      "to": "value",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "gendolla-mechanisms",
+      "from": "gendolla",
+      "to": "mechanisms",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "gendolla-regulation",
+      "from": "gendolla",
+      "to": "regulation",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "wolff-regulation",
+      "from": "wolff",
+      "to": "regulation",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "wolff-mechanisms",
+      "from": "wolff",
+      "to": "mechanisms",
+      "kind": "theme",
+      "verification": "curated",
+      "sourceURLs": [],
+      "provenanceNote": "原知识库的策展分类，不构成作者合作或官方研究分类证据。"
+    },
+    {
+      "id": "org-0-8",
+      "from": "muenks",
+      "to": "yan",
+      "kind": "institution",
+      "verification": "verified",
+      "sourceURLs": [
+        "https://sites.edb.utexas.edu/lamb/",
+        "https://sites.edb.utexas.edu/slam/"
+      ]
+    },
+    {
+      "id": "org-6-7",
+      "from": "debruin",
+      "to": "biwer",
+      "kind": "institution",
+      "verification": "verified",
+      "sourceURLs": [
+        "https://www.maastrichtuniversity.nl/nl/nieuws/anique-de-bruin-wordt-de-nieuwe-wetenschappelijk-directeur-van-she",
+        "https://www.maastrichtuniversity.nl/f-biwer/research"
+      ]
+    },
+    {
+      "id": "400a335d-9621-8107-b286-c6125f88d479-0-1",
+      "from": "muenks",
+      "to": "miele",
+      "kind": "coauthor",
+      "paperId": "400a335d-9621-8107-b286-c6125f88d479",
+      "verification": "verified",
+      "sourceURLs": [
+        "https://doi.org/10.3102/0034654316689328"
+      ]
+    },
+    {
+      "id": "400a335d-9621-8108-933c-c06c8e54f075-0-1",
+      "from": "debruin",
+      "to": "biwer",
+      "kind": "coauthor",
+      "paperId": "400a335d-9621-8108-933c-c06c8e54f075",
+      "verification": "verified",
+      "sourceURLs": [
+        "https://doi.org/10.1007/s10648-023-09766-w"
+      ]
+    },
+    {
+      "id": "400a335d-9621-8117-aee6-ca2f55be9a60-0-1",
+      "from": "inzlicht",
+      "to": "shenhav",
+      "kind": "coauthor",
+      "paperId": "400a335d-9621-8117-aee6-ca2f55be9a60",
+      "verification": "verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.tics.2018.01.007"
+      ]
+    },
+    {
+      "id": "400a335d-9621-8153-b96f-c52e4b415761-0-1",
+      "from": "shenhav",
+      "to": "wolff",
+      "kind": "coauthor",
+      "paperId": "400a335d-9621-8153-b96f-c52e4b415761",
+      "verification": "verified",
+      "sourceURLs": [
+        "https://doi.org/10.1016/j.neubiorev.2026.106978"
+      ]
+    },
+    {
+      "id": "400a335d-9621-81c4-b315-d12447f11234-0-1",
+      "from": "inzlicht",
+      "to": "westbrook",
+      "kind": "coauthor",
+      "paperId": "400a335d-9621-81c4-b315-d12447f11234",
+      "verification": "verified",
+      "sourceURLs": [
+        "https://doi.org/10.1038/s41562-024-01842-7"
+      ]
+    },
+    {
+      "id": "400a335d-9621-81e4-b807-c4a641f65f9b-0-1",
+      "from": "muenks",
+      "to": "miele",
+      "kind": "coauthor",
+      "paperId": "400a335d-9621-81e4-b807-c4a641f65f9b",
+      "verification": "verified",
+      "sourceURLs": [
+        "https://doi.org/10.1037/edu0000068"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "study-smart",
+      "name": "Study Smart",
+      "researcherIds": [
+        "debruin"
+      ],
+      "teamIds": [
+        "s2d2-network"
+      ],
+      "question": "支持学生采用有证据支持的学习策略。",
+      "status": "official-description-verified",
+      "currentStatus": "当前实施进度待核实",
+      "sourceURLs": [
+        "https://www.maastrichtuniversity.nl/nl/nieuws/anique-de-bruin-wordt-de-nieuwe-wetenschappelijk-directeur-van-she"
+      ],
+      "checkedAt": "2026-10-21"
+    }
+  ],
+  "updates": [
+    {
+      "id": "pub-400a335d-9621-8118-8569-e029fa2ee7e4",
+      "publishedAt": "2026-07-03",
+      "kind": "论文在线发表",
+      "paperIds": [
+        "400a335d-9621-8118-8569-e029fa2ee7e4"
+      ],
+      "researcherIds": [],
+      "summary": "Chinese learners' theories of effort, ability, and academic performance",
+      "sourceURL": "https://doi.org/10.1093/cdpers/aadag009",
+      "checkedAt": "2026-10-22",
+      "verification": "metadata-verified",
+      "themes": [
+        "beliefs"
+      ]
+    },
+    {
+      "id": "pub-400a335d-9621-8121-b00b-ff13296f1dc9",
+      "publishedAt": "2025-12-11",
+      "kind": "论文在线发表",
+      "paperIds": [
+        "400a335d-9621-8121-b00b-ff13296f1dc9"
+      ],
+      "researcherIds": [
+        "yan"
+      ],
+      "summary": "Testing the misinterpreted effort hypothesis: reframing effort changes perceived effort and its relationship to perceived learning, but does not affect decisions to interleave",
+      "sourceURL": "https://doi.org/10.1007/s11409-025-09446-w",
+      "checkedAt": "2026-10-21",
+      "verification": "metadata-verified",
+      "themes": [
+        "learning"
+      ]
+    },
+    {
+      "id": "pub-400a335d-9621-8153-b96f-c52e4b415761",
+      "publishedAt": "2026-09-19",
+      "kind": "论文在线发表",
+      "paperIds": [
+        "400a335d-9621-8153-b96f-c52e4b415761"
+      ],
+      "researcherIds": [
+        "shenhav",
+        "wolff"
+      ],
+      "summary": "When effort fails: Instances and reasons for effort-performance decoupling",
+      "sourceURL": "https://doi.org/10.1016/j.neubiorev.2026.106978",
+      "checkedAt": "2026-10-21",
+      "verification": "metadata-verified",
+      "themes": [
+        "mechanisms"
+      ]
+    },
+    {
+      "id": "pub-400a335d-9621-81c4-b315-d12447f11234",
+      "publishedAt": "2024-03-04",
+      "kind": "论文在线发表",
+      "paperIds": [
+        "400a335d-9621-81c4-b315-d12447f11234"
+      ],
+      "researcherIds": [
+        "inzlicht",
+        "westbrook"
+      ],
+      "summary": "An experimental manipulation of the value of effort",
+      "sourceURL": "https://doi.org/10.1038/s41562-024-01842-7",
+      "checkedAt": "2026-10-21",
+      "verification": "metadata-verified",
+      "themes": [
+        "value"
+      ]
+    },
+    {
+      "id": "pub-400a335d-9621-81cb-ac8b-f0ae921ba417",
+      "publishedAt": "2025-03-03",
+      "kind": "论文在线发表",
+      "paperIds": [
+        "400a335d-9621-81cb-ac8b-f0ae921ba417"
+      ],
+      "researcherIds": [
+        "job"
+      ],
+      "summary": "Because it is fun! Individual differences in effort enjoyment belief relate to behavioral and physiological indicators of effort-seeking.",
+      "sourceURL": "https://doi.org/10.1037/pspa0000443",
+      "checkedAt": "2026-10-22",
+      "verification": "metadata-verified",
+      "themes": [
+        "value"
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-22",
+  "topics": [
+    {
+      "id": "moral-value",
+      "nameZh": "努力的道德价值",
+      "nameEn": "Effort & Moral Character",
+      "question": "人们为什么把努力当作品格、应得性或合作价值的信号？",
+      "boundary": "他人对道德品格的判断，不等于行动者真实品格，也不等于努力带来的愉悦、能力或产出。",
+      "sourceURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/35901413/",
+        "https://pubmed.ncbi.nlm.nih.gov/36575959/"
+      ]
+    }
+  ]
+}
