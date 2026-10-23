@@ -1,3 +1,5 @@
+> 发布进展（2026-10-23）：GitHub 写入授权已恢复。修复提交 `76e177928b3a16859766f4b37e9e3bcce9ab9ce5` 已进入 main；Actions [39877863993](https://github.com/yufayee/global-effort-atlas/actions/runs/39877863993) 成功。原公开地址 HTTP 200，首页 V0.3 / EDITION 003；13 个核心文件与测试发布包一致，线上数量为 13/37/12/6/7/40。浏览器自动化仍超时，八栏目实际点击与桌面/手机视觉验收未完成。以下内容保留修复前后过程记录。
+
 # V0.3 Pages 修复记录 — 2026-10-23
 
 状态：本地修复和构建已完成，**尚未推送、尚未通过公开浏览器验收**。
@@ -42,3 +44,4 @@
 `backups/pages-fix-20261023/` 包含 `repository.git` 完整镜像、`repository-main.zip`、`snapshot/` 两版原文件、`local-public/`、`local-catalog/`、`removed-nested-copy/`、`manifest.json`。
 
 禁止将备份目录或整个本地源码项目直接上传公开仓库。恢复时使用备份或原提交，不从私人 Notion 重新导入。
+
