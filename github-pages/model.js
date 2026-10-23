@@ -1,5 +1,5 @@
 // Shared, deterministic data helpers. No network access or private data.
-export const relationTypes={theme:'策展路线',coauthor:'共同作者',institution:'同机构', 'team-member':'实验室成员',theory:'理论提出',concept:'概念关联',supports:'发现支持',revises:'发现修正',conflicts:'发现冲突'};
+export const relationTypes={theme:'研究主题关联',coauthor:'共同作者',institution:'同机构', 'team-member':'实验室成员',theory:'理论提出',concept:'概念关联',supports:'发现支持',revises:'发现修正',conflicts:'发现冲突'};
 export function apaReference(p){
  const initial=s=>(s??'').trim().split(/\s+/).filter(Boolean).map(w=>w.split('-').map(x=>x[0]?.toUpperCase()+'.').join('-')).join(' ');
  const authors=(p.authors??[]).map(a=>a.given?`${a.family}, ${initial(a.given)}`:a.family);
