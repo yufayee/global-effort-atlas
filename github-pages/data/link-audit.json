@@ -2993,5 +2993,13 @@
     "status": "http-error",
     "targetStatus": "official-source-retained; current-target-needs-review",
     "checkedAt": "2026-10-22T11:38:15.198Z"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41661571/",
+    "checkedAt": "2026-11-12",
+    "status": "access-restricted",
+    "httpStatus": null,
+    "targetStatus": "题录身份由检索结果核对；直接读取仅返回验证页，不能确认全文可访问",
+    "title": "Effort norms encourage more exertion but not less"
   }
 ]

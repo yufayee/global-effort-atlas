@@ -1,6 +1,6 @@
 {
   "version": "0.4.0",
-  "updatedAt": "2026-10-23",
+  "updatedAt": "2026-11-12",
   "scope": "基于既有 37 篇题录的策展式研究全景，不是系统综述、全球名录或文献计量排名。分类与页面间连接是编辑组织，非新学术合作关系。",
   "sources": [
     {
@@ -123,6 +123,17 @@
       "boundary": "综述中不同模型可能互补，不能自动视为相互排斥。",
       "checkedAt": "2026-10-23",
       "fullText": "not-reviewed"
+    },
+    {
+      "id": "src-norms",
+      "label": "Zohar & Inzlicht (2026)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41661571/",
+      "doi": "10.1037/xge0001904",
+      "paperId": "400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+      "level": "正式发表摘要核查",
+      "boundary": "仅核查正式发表摘要及可检索的讨论片段，未完成全文核读或独立统计复核。社会比较、心理接近感与低努力可接受性是被考察的解释，不是已确定的机制。描述性规范不等于努力道德化；结果不证明学习成绩或努力价值提高。无关任务中的他人选择未显示同样影响，推广范围仍有限。",
+      "checkedAt": "2026-11-12",
+      "fullText": "not-reviewed"
     }
   ],
   "traditions": [
@@ -150,21 +161,47 @@
       "id": "social",
       "en": "Social & Personality Psychology",
       "zh": "社会与人格心理学",
-      "question": "努力如何成为自我评价、他人判断与社会规范的线索？",
+      "question": "努力的社会评价与道德化：人们如何评价努力者？社会规范与努力选择：观察他人的努力选择如何影响自己的行为？",
       "sourceIds": [
         "src-paradox",
-        "src-moral"
+        "src-moral",
+        "src-norms"
       ],
       "paperIds": [
         "400a335d-9621-8117-aee6-ca2f55be9a60",
-        "celniker-2023-moralization"
+        "celniker-2023-moralization",
+        "400a335d-9621-8117-a2db-cbcbbe4d1bb1"
       ],
       "conceptIds": [
         "moral-effort",
-        "effort-value"
+        "effort-value",
+        "effort-norms",
+        "effort-choice"
       ],
-      "gap": "道德评价研究尚不能代表全部文化、职业与社会情境。",
-      "classification": "editorial-cross-disciplinary"
+      "gap": "描述性规范关注别人通常做什么，努力道德化关注道德评价；两者不能视为同一构念，也不能据此认定道德化是规范影响选择的机制。当前收录不能代表全部文化、职业与社会情境。",
+      "classification": "editorial-cross-disciplinary",
+      "topics": [
+        {
+          "title": "努力的社会评价与道德化",
+          "question": "人们如何评价努力者？",
+          "paperIds": [
+            "celniker-2023-moralization"
+          ],
+          "sourceIds": [
+            "src-moral"
+          ]
+        },
+        {
+          "title": "社会规范与努力选择",
+          "question": "了解他人通常选择高努力或低努力任务，是否会改变个体自己的努力选择？",
+          "paperIds": [
+            "400a335d-9621-8117-a2db-cbcbbe4d1bb1"
+          ],
+          "sourceIds": [
+            "src-norms"
+          ]
+        }
+      ]
     },
     {
       "id": "cognitive",

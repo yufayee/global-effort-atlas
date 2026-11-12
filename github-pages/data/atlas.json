@@ -1615,25 +1615,30 @@
       "unverifiedDOI": null,
       "publicationType": "journal-article",
       "themes": [
+        "regulation",
         "value",
         "moral"
       ],
       "evidenceType": "实验/干预",
-      "method": null,
-      "population": null,
-      "outcomes": null,
-      "limitations": null,
+      "method": "需求选择任务：操纵关于他人高需求或低需求任务选择的信息，并与没有此类信息的控制条件比较。指标是参与者选择高需求任务的比例。",
+      "population": "正式发表版本摘要报告 12 项研究，N = 1,957；样本构成及各研究排除标准待全文核读。",
+      "outcomes": "高需求任务选择比例；不能直接等同于实际努力强度、学习成绩或努力价值。",
+      "limitations": "仅核查正式发表摘要及可检索的讨论片段，未完成全文核读或独立统计复核。社会比较、心理接近感与低努力可接受性是被考察的解释，不是已确定的机制。描述性规范不等于努力道德化；结果不证明学习成绩或努力价值提高。无关任务中的他人选择未显示同样影响，推广范围仍有限。",
       "verification": "metadata-verified",
       "sourceURLs": [
         "https://doi.org/10.1037/xge0001904",
         "https://api.crossref.org/works/10.1037/xge0001904",
-        "https://api.crossref.org/works/10.1037%2Fxge0001904"
+        "https://api.crossref.org/works/10.1037%2Fxge0001904",
+        "https://pubmed.ncbi.nlm.nih.gov/41661571/"
       ],
-      "checkedAt": "2026-10-21",
+      "checkedAt": "2026-11-12",
       "importedAt": "2026-10-21",
       "keywords": [
         "价值与成本",
-        "Cost & Value"
+        "Cost & Value",
+        "社会规范与努力选择",
+        "Effort Norms & Effort Choice",
+        "描述性规范"
       ],
       "researcherIds": [
         "inzlicht"
@@ -1649,23 +1654,32 @@
           ]
         },
         "abstract": {
-          "status": "not-reviewed",
-          "sourceURLs": []
+          "status": "checked",
+          "checkedAt": "2026-11-12",
+          "sourceURLs": [
+            "https://pubmed.ncbi.nlm.nih.gov/41661571/"
+          ]
         },
         "fullText": {
           "status": "not-reviewed",
           "sourceURLs": []
         }
       },
-      "researchQuestion": null,
-      "questionStatus": "pending",
-      "summaryBasis": "none",
-      "findingSummary": null,
+      "researchQuestion": "了解他人通常选择高努力或低努力任务，是否会改变个体自己的努力选择？",
+      "questionStatus": "abstract-checked",
+      "summaryBasis": "abstract",
+      "findingSummary": "高努力描述性规范提高高需求任务的选择比例；低努力规范未产生对称的减少效应。增加低努力的可接受性或与他人的心理接近感后，仍未观察到相应的低努力顺从。",
       "recordStatus": "verified",
-      "theoreticalFramework": null,
+      "theoreticalFramework": "描述性社会规范与努力选择；关联努力成本、价值及道德评价，但不将道德化视为已验证的中介机制。",
       "sampleLocations": [],
-      "relatedPaperIds": [],
+      "relatedPaperIds": [
+        "400a335d-9621-8117-aee6-ca2f55be9a60",
+        "400a335d-9621-81c4-b315-d12447f11234",
+        "celniker-2023-moralization"
+      ],
       "conceptIds": [
+        "effort-norms",
+        "effort-choice",
         "moral-effort"
       ],
       "bibliography": {
@@ -1678,6 +1692,7 @@
         "checkedAt": "2026-10-22"
       },
       "publisherURL": null,
+      "primaryTheme": "regulation",
       "apa": {
         "text": "Zohar, E., & Inzlicht, M. (2026). Effort norms encourage more exertion but not less. Journal of Experimental Psychology: General, 155(4), 1103–1119. https://doi.org/10.1037/xge0001904",
         "status": "metadata-complete"
@@ -5110,6 +5125,61 @@
         "https://doi.org/10.1037/xge0001904"
       ],
       "provenanceNote": "依据已核题录的主题归类；不表示该作者支持所有道德努力理论或论文结论。"
+    },
+    {
+      "id": "norms-topic-400a335d-9621-8117-aee6-ca2f55be9a60",
+      "from": "400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+      "to": "400a335d-9621-8117-aee6-ca2f55be9a60",
+      "kind": "concept",
+      "verification": "editorial-synthesis",
+      "recordStatus": "draft",
+      "sourceURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/41661571/",
+        "https://doi.org/10.1016/j.tics.2018.01.007"
+      ],
+      "checkedAt": "2026-11-12",
+      "provenanceNote": "编辑概念关联：对照规范信息、努力选择、成本价值与道德评价。不是共同作者、理论继承或已验证的因果机制。"
+    },
+    {
+      "id": "norms-topic-400a335d-9621-81c4-b315-d12447f11234",
+      "from": "400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+      "to": "400a335d-9621-81c4-b315-d12447f11234",
+      "kind": "concept",
+      "verification": "editorial-synthesis",
+      "recordStatus": "draft",
+      "sourceURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/41661571/",
+        "https://doi.org/10.1038/s41562-024-01842-7"
+      ],
+      "checkedAt": "2026-11-12",
+      "provenanceNote": "编辑概念关联：对照规范信息、努力选择、成本价值与道德评价。不是共同作者、理论继承或已验证的因果机制。"
+    },
+    {
+      "id": "norms-topic-celniker-2023-moralization",
+      "from": "400a335d-9621-8117-a2db-cbcbbe4d1bb1",
+      "to": "celniker-2023-moralization",
+      "kind": "concept",
+      "verification": "editorial-synthesis",
+      "recordStatus": "draft",
+      "sourceURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/41661571/",
+        "https://doi.org/10.1037/xge0001259"
+      ],
+      "checkedAt": "2026-11-12",
+      "provenanceNote": "编辑概念关联：对照规范信息、努力选择、成本价值与道德评价。不是共同作者、理论继承或已验证的因果机制。"
+    },
+    {
+      "id": "norms-topic-effort-choice",
+      "from": "effort-norms",
+      "to": "effort-choice",
+      "kind": "concept",
+      "verification": "editorial-synthesis",
+      "recordStatus": "draft",
+      "sourceURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/41661571/"
+      ],
+      "checkedAt": "2026-11-12",
+      "provenanceNote": "编辑概念关联：对照规范信息、努力选择、成本价值与道德评价。不是共同作者、理论继承或已验证的因果机制。"
     }
   ],
   "projects": [
@@ -5427,6 +5497,54 @@
       "verification": "editorial-synthesis",
       "evidenceScope": "来源支持的概念导读；不是完整理论综述，测量细节未全文核读。",
       "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "effort-norms",
+      "nameZh": "努力规范",
+      "nameEn": "Descriptive Effort Norms",
+      "definition": "关于他人通常如何选择不同需求任务的描述性信息；这里指高努力或低努力的行为规范。",
+      "measurement": "通过提供或呈现他人的高需求或低需求任务选择信息进行操纵。",
+      "distinction": "描述别人通常做什么，不等于评价努力者是否更有道德，也不等于命令别人应当努力。",
+      "themeIds": [
+        "regulation",
+        "value"
+      ],
+      "contributors": "本条目依据 Zohar 与 Inzlicht（2026）整理，不判断概念首创者。",
+      "debate": "规范效应的方向不对称，具体心理机制与跨任务推广仍待研究。",
+      "paperIds": [
+        "400a335d-9621-8117-a2db-cbcbbe4d1bb1"
+      ],
+      "sourceURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/41661571/"
+      ],
+      "recordStatus": "draft",
+      "verification": "editorial-synthesis",
+      "evidenceScope": "正式发表摘要范围内的概念导读；未全文核读。",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "effort-choice",
+      "nameZh": "努力选择",
+      "nameEn": "Effort Choice",
+      "definition": "在不同需求水平的任务之间作出选择；本研究关注高需求任务的选择比例。",
+      "measurement": "需求选择任务中选择高需求选项的比例。",
+      "distinction": "任务选择与实际努力强度、主观费力、学习成绩及努力价值分别测量，不能互相替代。",
+      "themeIds": [
+        "regulation",
+        "value"
+      ],
+      "contributors": "本条目依据 Zohar 与 Inzlicht（2026）整理，不判断概念首创者。",
+      "debate": "规范效应的方向不对称，具体心理机制与跨任务推广仍待研究。",
+      "paperIds": [
+        "400a335d-9621-8117-a2db-cbcbbe4d1bb1"
+      ],
+      "sourceURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/41661571/"
+      ],
+      "recordStatus": "draft",
+      "verification": "editorial-synthesis",
+      "evidenceScope": "正式发表摘要范围内的概念导读；未全文核读。",
+      "checkedAt": "2026-11-12"
     }
   ]
 }
